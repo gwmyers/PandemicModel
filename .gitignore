@@ -6,3 +6,9 @@
 
 # python files:
 *.pyc
+
+# root files:
+*.root
+
+# grapher files:
+*.gcx
