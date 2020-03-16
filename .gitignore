@@ -1,0 +1,8 @@
+# stupid OSX thing:
+*.DS_Store
+
+# temporary files:
+.tmp
+
+# python files:
+*.pyc
