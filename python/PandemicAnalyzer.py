@@ -63,7 +63,7 @@ ROOT.kYellow,
 ]
 
 #-------------------------------------------------------------------------
-# Functions:
+# Data Preparation:
 #-------------------------------------------------------------------------
 def getDataForCountry(fileString, countryString='USA'):
     '''
@@ -73,7 +73,7 @@ def getDataForCountry(fileString, countryString='USA'):
     
     return df.loc[df[PLACE_KEY] == countryString]
 
-def makePlotFromDataFrameColumn(dataframe, column, tag=''):
+def makeHistogramFromDataFrameColumn(dataframe, column, tag=''):
     '''
     returns a TH1F created from one column in a DataFrame
     
@@ -90,7 +90,7 @@ def makePlotFromDataFrameColumn(dataframe, column, tag=''):
     h.GetXaxis().SetTitle('days since Feb 25th')
     
     dataScaleFactor  = 1.0
-    errorScaleFactor = 0.05
+    errorScaleFactor = 0.10
     
     for ii in range(nPoints):
         datum = dataScaleFactor*xData[ii]
@@ -100,6 +100,9 @@ def makePlotFromDataFrameColumn(dataframe, column, tag=''):
     
     return h
 
+#-------------------------------------------------------------------------
+# Plotting:
+#-------------------------------------------------------------------------
 def refreshPad(c):
     c.Modified()
     c.Update()
@@ -128,7 +131,7 @@ def drawPlotOnNewCanvas(plot, tag='', options=''):
     
 def drawAllHistogramsInList(hlist, tag):
     '''
-    returns a TCanvas with all histograms in given list drawn with option 'same'
+    returns a TCanvas and legend with all histograms in given list drawn with option 'same'
     '''
     c1  = ROOT.TCanvas(tag+'_c1', tag+'_c1', 800, 600)
     leg = ROOT.TLegend(0.15, 0.80, 0.30, 0.90)
@@ -175,10 +178,10 @@ def makeSummaryPlotsAndSavePDF(fname='case-reports.root', countries=COUNTRY_KEYS
         
     rfile.Close()
 
-#-------------------------------------------------------------------------
-# Main:
-#-------------------------------------------------------------------------
-def main():
+def makeAllHistograms():
+    '''
+    prep data and save hitograms to .root file
+    '''
     data = pd.DataFrame({'Place':[],
                          'Region':[],
                          'Confirmed':[],
@@ -199,15 +202,70 @@ def main():
             df['Active'] = df['Confirmed'] - df['Recovered'] - df['Deaths']
             dfList.append(df)
             
-            data = pd.concat(dfList)
+            data = pd.concat(dfList, sort=True)
         
         print(data)
         
         for plotKey in DATA_KEYS_TO_PLOT:
-            hist = makePlotFromDataFrameColumn(data, plotKey, country)
+            hist = makeHistogramFromDataFrameColumn(data, plotKey, country)
             hist.Write(hist.GetName())
     
     f.Close()
+
+#-------------------------------------------------------------------------
+# Analysis:
+#-------------------------------------------------------------------------
+def runAnalysis():
+    '''
+    performs a simple logistic fit to number of confirmed cases in US
+    '''
+    ROOT.gStyle.SetOptFit(1111)
+    # get the histogram to analyze
+    rfile = ROOT.TFile(os.path.join(PLOT_DIR,'case-reports.root'), 'read')
+    hist  = rfile.Get('h_Confirmed_USA')
+    nBins = hist.GetNbinsX()
+    
+    # format the histogram:
+    markerColor = ROOT.kBlack
+    markerStyle = 20
+    lineStyle   = 0
+    xlabel      = hist.GetXaxis().GetTitle()
+    ylabel      = 'number of confirmed cases'
+    formatHistogramForDrawing(hist, markerColor, markerStyle, lineStyle, xlabel, ylabel)
+   
+    # define fit function:
+    logisticFunc = ROOT.TF1('logisticFunc','[0]/( 1 + [1]*exp(-[2]*(x-[3])) )', 0, nBins)
+    logisticFunc.SetParameters(1,1,1,0)
+    logisticFunc.SetLineColor(ROOT.kMagenta)
+    
+    # do the fit:
+    hist.Fit(logisticFunc, '', '',6, nBins)
+    
+    # draw the histogram and fit function together:
+    c1 = ROOT.TCanvas('c1', 'c1', 800, 600)
+    leg = ROOT.TLegend(0.45, 0.80, 0.67, 0.90)
+    
+    c1.SetLogy()
+    c1.cd()
+    logisticFunc.Draw()
+    hist.Draw()
+    refreshPad(c1)
+    
+    leg.AddEntry(logisticFunc, '#frac{p_{0}}{1+p_{1}exp#left[-p_{2}(x-p_{3})#right]}','l')
+    leg.Draw()
+    
+    # move the damn stats box out of the way:
+    ps = hist.GetListOfFunctions().FindObject('stats')
+    ps.SetX1NDC(0.15)
+    ps.SetX2NDC(0.45)
+    ps.SetY1NDC(0.55)
+    ps.SetY2NDC(0.90)
+    refreshPad(c1)
+    
+    #input('press <ret> to exit')
+    c1.SaveAs(os.path.join(PLOT_DIR,'USA_LogisticFit_To_Confirmed_Cases.pdf'))
+    
+    rfile.Close()
 
 
 #-------------------------------------------------------------------------
@@ -215,16 +273,24 @@ def main():
 #-------------------------------------------------------------------------
 if __name__ == '__main__':
     try:
-        parser = argparse.ArgumentParser(description='analyze pandemic data, plot argparser')
-        parser.add_argument('-p',action='store_true', required=False, dest='onlyProducePlots', help='save pdfs from root file', default=False)
-        parser.add_argument('-l',action='store_true', required=False, dest='doLogScaleY', help='set log scale y-axis', default=False)
+        parser = argparse.ArgumentParser(description='analyze pandemic data - plotting and fitting')
+        parser.add_argument('-p',action='store_true', required=False, dest='doOnlyDataPrep', help='make histograms from data files', default=False)
+        parser.add_argument('-s',action='store_true', required=False, dest='doOnlySavePlots', help='run fit to data', default=False)
+        parser.add_argument('-a',action='store_true', required=False, dest='doOnlyAnalysis', help='run fit to data', default=False)
         args = parser.parse_args()
         
-        if args.onlyProducePlots:
-            makeSummaryPlotsAndSavePDF(doLogScaleY=args.doLogScaleY)
+        doSetLogy = True
+        
+        if args.doOnlyDataPrep:
+            makeAllHistograms()
+        elif args.doOnlyAnalysis:
+            runAnalysis()
+        elif args.doOnlySavePlots:
+            makeSummaryPlotsAndSavePDF(doLogScaleY=doSetLogy)
         else:
-            main()
-            makeSummaryPlotsAndSavePDF(doLogScaleY=args.doLogScaleY)
+            makeAllHistograms()
+            makeSummaryPlotsAndSavePDF(doLogScaleY=doSetLogy)
+            runAnalysis()
         
     except KeyboardInterrupt:
         print('KeyboardInterrupt\nexiting...')
