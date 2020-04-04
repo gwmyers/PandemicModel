@@ -275,7 +275,7 @@ if __name__ == '__main__':
     try:
         parser = argparse.ArgumentParser(description='analyze pandemic data - plotting and fitting')
         parser.add_argument('-p',action='store_true', required=False, dest='doOnlyDataPrep', help='make histograms from data files', default=False)
-        parser.add_argument('-s',action='store_true', required=False, dest='doOnlySavePlots', help='run fit to data', default=False)
+        parser.add_argument('-s',action='store_true', required=False, dest='doOnlySavePlots', help='make plots and save pdfs', default=False)
         parser.add_argument('-a',action='store_true', required=False, dest='doOnlyAnalysis', help='run fit to data', default=False)
         args = parser.parse_args()
         
