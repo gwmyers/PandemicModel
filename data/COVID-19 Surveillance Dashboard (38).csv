@@ -1,0 +1,295 @@
+Place,Region,Confirmed,Deaths,Recovered,Active,Last Update
+USA,USA,"278,492","7,166","9,897","261,429",4/4/20 3:00
+Italy,Italy,"119,827","14,681","19,758","85,388",4/3/20 17:00
+Spain,Spain,"119,199","11,198","30,513","77,488",4/3/20 22:00
+New York,USA,"103,169","2,935",0,"100,234",2020-04-04 03:00:00 * CTY: Albany 267; Allegany 14; Broome 56; Cattaraugus 9; Cayuga 6; Chautauqua 9; Chemung 35; Chenango 32; Clinton 30; Columbia 57; Cortland 14; Delaware 24; Dutchess 809; Erie 802; Essex 7; Franklin 10; Fulton 6; Genesee 17; Greene 23; Hamilton 2; Herkimer 14; Jefferson 18; Lewis 2; Livingston 18; Madison 78; Monroe 464; Montgomery 10; Nassau 12024; New York 57159; Niagara 94; Oneida 71; Onondaga 322; Ontario 28; Orange 2470; Orleans 6; Oswego 28; Otsego 21; Putnam 252; Rensselaer 67; Rockland 4289; Saratoga 141; Schenectady 110; Schoharie 11; Schuyler 3; Seneca 6; Steuben 46; St. Lawrence 48; Suffolk 10154; Sullivan 188; Tioga 8; Tompkins 93; Ulster 266; Warren 19; Washington 15; Wayne 30; Westchester 12351; Wyoming 15; Yates 1
+Germany,Germany,"91,159","1,275","24,575","65,309",2020-04-03 22:00:00 * States (not updated after 776360) Baden-Württemberg 16076; Bavaria 18571; Berlin 2993; Brandenburg 1107; Bremen 332; Hamburg 2437; Hesse 3758; Mecklenburg-Vorpommern 443; Lower Saxony 5008; North Rhine-Westphalia 17157; Rhineland-Palatinate 3331; Saarland 1073; Saxony 2304; Saxony-Anhalt 820; Schleswig-Holstein 1299; Thuringia 927; Source: @iceweasel
+Mainland China,Mainland China,"81,623","3,312","76,335","1,976",4/3/20 10:00
+Hubei,Mainland China,"67,802","3,193","63,326","1,283",4/1/20 7:00
+France,France,"64,338","6,507","14,008","43,823",4/3/20 20:00
+Iran,Iran,"53,183","3,294","17,935","31,954",4/3/20 16:00
+United Kingdom,United Kingdom,"38,168","3,605",135,"34,428",4/3/20 16:00
+New Jersey,USA,"29,895",646,0,"29,249",2020-04-04 03:00:00 * CTY: Atlantic 72; Bergen 4866; Burlington 367; Camden 406; Cape May 44; Cumberland 36; Essex 3067; Gloucester 183; Hudson 2835; Hunterdon 148; Mercer 484; Middlesex 2125; Monmouth 1743; Morris 1298; Ocean 1685; Passaic 2216; Salem 25; Somerset 641; Sussex 210; Union 2487; unknown 4808; Warren 149
+Turkey,Turkey,"20,921",425,484,"20,012",4/3/20 17:00
+Switzerland,Switzerland,"19,606",591,"4,846","14,169",4/3/20 17:00
+Belgium,Belgium,"16,770","1,143","2,872","12,755",4/3/20 10:00
+Netherlands,Netherlands,"15,723","1,487",250,"13,986",4/3/20 16:00
+Michigan,USA,"12,744",479,0,"12,265",2020-04-04 03:00:00 * CTY: Allegan 6; Antrim 4; Arenac 2; Barry 5; Bay 18; Berrien 52; Branch 6; Calhoun 31; Cass 6; Charlevoix 5; Cheboygan 6; Chippewa 1; Clare 2; Clinton 49; Crawford 1; Delta 5; Dickinson 1; Eaton 47; Emmet 6; Genesee 422; Gladwin 2; Gogebic 3; Grand Traverse 11; Gratiot 5; Hillsdale 26; Houghton 1; Huron 4; Ingham 152; Ionia 6; Iosco 1; Isabella 9; Jackson 69; Kalamazoo 40; Kalkaska 8; Kent 136; Lapeer 22; Leelanau 1; Lenawee 24; Livingston 121; Luce 1; Mackinac 2; Macomb 1560; Manistee 1; Marquette 7; Mecosta 4; Midland 16; Missaukee 1; Monroe 95; Montcalm 12; Muskegon 30; Newaygo 2; Oakland 2540; Oceana 3; Ogemaw 2; Osceola 3; Oscoda 2; Other 187; Otsego 20; Ottawa 37; Out of State 74; Presque Isle 1; Roscommon 2; Saginaw 90; Sanilac 10; Shiawassee 18; St. Clair 66; St. Joseph 10; Tuscola 15; unknown 28; Van Buren 12; Washtenaw 477; Wayne 2546; Wayne--Detroit 3550; Wexford 4
+Canada,Canada,"12,545",188,"2,391","9,966",2020-04-04 01:00:00 * Completed Tests: 302745. Quebec 6101; Ontario 3255; British Columbia 1174; Alberta 1075; Saskatchewan 220; Nova Scotia 207; Newfoundland 195; Manitoba 182; New Brunswick 91; Prince Edward Island 22; Yukon 6; Northwest Territories 4; Yukon 6; CDN 13
+California,USA,"12,507",280,0,"12,227",2020-04-04 03:00:00 * CTY: Alameda 443; Alpine 1; Amador 3; Butte 10; Calaveras 3; Colusa 1; Contra Costa 307; Del Norte 1; El Dorado 19; Fresno 100; Glenn 2; Humboldt 40; Imperial 52; Inyo 10; Kern 199; Kings 5; Los Angeles 4566; Madera 28; Marin 131; Mendocino 4; Merced 16; Mono 18; Monterey 53; Napa 20; Nevada 30; Orange 711; Placer 97; Plumas 1; Riverside 638; Sacramento 390; San Benito 23; San Bernardino 353; San Diego 1112; San Francisco 497; San Joaquin 180; San Luis Obispo 93; San Mateo 486; Santa Barbara 152; Santa Clara 1094; Santa Cruz 59; Shasta 16; Siskiyou 3; Solano 61; Sonoma 95; Stanislaus 51; Sutter 14; Tehama 1; Tulare 81; Tuolumne 2; Ventura 189; Yolo 37; Yuba 9
+Austria,Austria,"11,524",168,"2,022","9,334",4/4/20 0:00
+Massachusetts,USA,"10,402",192,0,"10,210",2020-04-04 03:00:00 * CTY: Barnstable 314; Berkshire 240; Bristol 517; Dukes and Nantucket 16; Essex 1238; Franklin 89; Hampden 661; Hampshire 114; Middlesex 2202; Norfolk 1045; Plymouth 745; Suffolk 2183; unknown 213; Worcester 825
+Louisiana,USA,"10,297",370,0,"9,927",2020-04-04 03:00:00 * CTY: Acadia 72; Allen 34; Ascension 222; Assumption 33; Avoyelles 37; Beauregard 13; Bienville 9; Bossier 95; Caddo 377; Calcasieu 119; Caldwell 1; Catahoula 6; Claiborne 18; Concordia 10; De Soto 46; East Baton Rouge 389; East Carroll 1; East Feliciana 19; Evangeline 18; Franklin 10; Grant 5; Iberia 78; Iberville 81; Jackson 4; Jefferson 2495; Jefferson Davis 14; Lafayette 276; Lafourche 185; La Salle 2; Lincoln 17; Livingston 40; Madison 1; Morehouse 7; Natchitoches 6; Orleans 3476; Ouachita 114; Parish Under Investigation 40; Plaquemines 75; Pointe Coupee 13; Rapides 81; Red River 2; Richland 4; Sabine 4; St. Bernard 196; St. Charles 210; St. Helena 1; St. James 116; St. John the Baptist 290; St. Landry 68; St. Martin 69; St. Mary 47; St. Tammany 435; Tangipahoa 55; Terrebonne 102; Union 17; Vermilion 18; Vernon 8; Washington 57; Webster 23; West Baton Rouge 23; West Feliciana 11; Winn 2
+Florida,USA,"10,268",170,0,"10,098",2020-04-04 03:00:00 * CTY: Alachua 110; Baker 11; Bay 18; Bradford 5; Brevard 62; Broward 1598; Calhoun 2; Charlotte 43; Citrus 28; Clay 69; Collier 203; Columbia 4; Desoto 9; Duval 323; Escambia 113; Flagler 28; Franklin 1; Gadsden 3; Glades 3; Gulf 1; Hardee 1; Hendry 5; Hernando 38; Highlands 26; Hillsborough 463; Holmes 1; Indian River 47; Jackson 4; Lake 88; Lee 304; Leon 39; Levy 2; Madison 4; Manatee 104; Marion 38; Martin 42; Miami-Dade 3364; Monroe 40; Nassau 19; Okaloosa 54; Okeechobee 2; Orange 602; Osceola 201; Palm Beach 858; Pasco 77; Pinellas 318; Polk 126; Putnam 15; Santa Rosa 48; Sarasota 124; Seminole 163; St. Johns 119; St. Lucie 60; Sumter 68; Suwannee 11; Union 1; unknown 10; Volusia 125; Wakulla 3; Walton 19; Washington 1
+South Korea,South Korea,"10,062",174,"6,021","3,867",4/3/20 10:00
+Portugal,Portugal,"9,886",246,68,"9,572",4/3/20 16:00
+Illinois,USA,"9,266",210,0,"9,056",2020-04-04 03:00:00 * CTY: Adams 2; Bond 3; Bureau 2; Carroll 4; Champaign 51; Christian 17; Clark 2; Clinton 8; Cook 6473; Crawford 1; Cumberland 1; DeKalb 16; De Witt 1; Douglas 9; DuPage 500; Effingham 1; Fayette 2; Ford 1; Franklin 1; Grundy 7; Henry 7; Iroquois 4; Jackson 8; Jersey 1; Jo Daviess 4; Kane 176; Kankakee 58; Kendall 37; Knox 1; Lake 608; La Salle 6; Livingston 6; Logan 1; Macon 2; Macoupin 1; Madison 31; Marion 3; Marshall 1; Massac 1; McHenry 102; McLean 35; Menard 1; Mercer 1; Monroe 8; Montgomery 2; Morgan 5; Moultrie 1; Ogle 1; Peoria 11; Piatt 1; Randolph 12; Rock Island 24; Saline 1; Sangamon 20; St. Clair 57; Stephenson 3; Tazewell 7; unknown 415; Vermilion 2; Washington 1; Whiteside 9; Will 455; Williamson 2; Winnebago 28; Woodford 4
+Brazil,Brazil,"9,056",359,127,"8,570",2020-04-04 01:00:00 * States Acre 46 Amazonas 260 Amapá 19 Pará 50 Rondônia 10 Roraima 30 Tocantins 12 Alagoas 22 Bahia 282 Ceara 627 Maranhão 81 Paraíba 29 Pernambuco 136 Piauí 21 Rio Grande do Norte 176 Sergipe 25 Espírito Santo 139 Minas Gerais 397 Rio de Janeiro 1074 São Paulo 4048 Distrito Federal 402 Goiás 88 Mato Grosso do Sul 60 Mato Grosso 44 Paraná 301 Rio Grande do Sul 396 Santa Catarina 281. Source: @HeidyBello
+Pennsylvania,USA,"8,570",102,0,"8,468",2020-04-04 03:00:00 * CTY: Adams 19; Allegheny 476; ​Armstrong 11; Beaver 65; Bedford 3; Berks 201; Blair 4; Bradford 9; Bucks 450; Butler 75; Cambria 4; Cameron 1; ​Carbon 34; Centre 32; Chester 226; Clarion 4; ​Clearfield 5; Clinton 1; Columbia 15; Crawford 5; Cumberland 45; Dauphin 79; Delaware 542; Erie 17; Fayette 20; Forest 1; Franklin 26; Greene 11; Huntingdon 3; Indiana 7; Juniata 5; Lackawanna 119; Lancaster 232; Lawrence 19; Lebanon 54; Lehigh 584; Luzerne 484; Lycoming 8; Mckean 1; Mercer 10; Mifflin 2; Monroe 397; Montgomery 875; Montour 16; Northampton 466; Northumberland 8; Perry 4; Philadelphia 2430; Pike 83; Potter 2; Schuylkill 63; Snyder 4; ​Somerset 3; Susquehanna 4; Tioga 3; Union 3; Venango 3; Warren 1; Washington 40; Wayne 23; Westmoreland 110; Wyoming 2; York 121
+Israel,Israel,"7,428",40,338,"7,050",4/3/20 20:00
+Washington,USA,"6,967",295,0,"6,672",2020-04-04 03:00:00 * CTY: Adams 20; Asotin 1; Benton 136; Chelan 20; Clallam 8; Clark 137; Columbia 1; Cowlitz 18; Douglas 7; Ferry 1; Franklin 45; Grant 77; Grays Harbor 3; Island 122; Jefferson 19; King 2787; Kitsap 95; Kittitas 10; Klickitat 9; Lewis 13; Lincoln 1; Mason 13; Okanogan 4; Pend Oreille 1; Pierce 571; San Juan 6; Skagit 160; Skamania 1; Snohomish 1450; Spokane 194; Stevens 5; Thurston 58; unknown 483; Wahkiakum 1; Walla Walla 8; Whatcom 182; Whitman 11; Yakima 289
+Sweden,Sweden,"6,131",358,205,"5,568",4/3/20 16:00
+Texas,USA,"6,030",104,0,"5,926",2020-04-04 03:00:00 * CTY: Anderson 1; Andrews 1; Angelina 10; Atascosa 2; Austin 4; Bastrop 10; Bell 51; Bexar 342; Blanco 1; Bowie 10; Brazoria 136; Brazos 72; Brown 4; Burleson 1; Burnet 4; Caldwell 2; Calhoun 8; Cameron 55; Camp 1; Cass 4; Castro 11; Chambers 11; Cherokee 6; Clay 1; Collin 227; Colorado 4; Comal 18; Comanche 1; Coryell 2; Crane 2; Dallas 921; Dawson 5; Deaf Smith 3; Denton 273; DeWitt 6; Donley 5; Eastland 3; Ector 22; Ellis 27; El Paso 78; El Paso--Fort Bliss 7; Erath 9; Falls 1; Fannin 2; Fayette 10; Fort Bend 255; Franklin 1; Gaines 1; Galveston 136; Gillespie 1; Goliad 1; Gonzales 1; Gray 3; Grayson 12; Gregg 16; Grimes 3; Guadalupe 23; Hale 6; Hardin 15; Harris--Houston 587; Harris--Non Houston 519; Harrison 5; Hays 47; Hemphill 1; Henderson 1; Hidalgo 79; Hill 3; Hockley 7; Hood 8; Hopkins 3; Hunt 8; Jackson 3; Jasper 3; Jefferson 40; Jim Wells 1; Johnson 18; Karnes 2; Kaufman 9; Kendall 8; Kerr 2; Kleberg 1; Lamar 3; Lamb 1; Lampasas 1; Lavaca 1; Lee 2; Leon 2; Liberty 5; Limestone 3; Live Oak 3; Llano 3; Lubbock 138; Lynn 3; Martin 1; Matagorda 36; Maverick 4; McLennan 49; Medina 3; Midland 22; Milam 2; Montague 1; Montgomery 130; Moore 6; Morris 1; Nacogdoches 13; Navarro 5; Newton 1; Nueces 47; Oldham 2; Orange 7; Palo Pinto 1; Panola 4; Parker 5; Polk 7; Potter 24; Randall 24; Reeves 1; Robertson 2; Rockwall 10; Rusk 11; San Augustine 4; San Jacinto 1; San Patricio 3; Shelby 10; Smith 57; Starr 5; Swisher 1; Tarrant 383; Taylor 23; Terry 4; Titus 1; Tom Green 17; Travis 430; Trinity 1; Tyler 2; Upshur 3; Uvalde 4; Val Verde 5; Van Zandt 3; Victoria 32; Walker 5; Waller 7; Washington 17; Webb 83; Wharton 9; Wichita 46; Willacy 3; Williamson 71; Wilson 6; Wise 3; Wood 1; Young 3
+Georgia,USA,"5,967",198,0,"5,769",2020-04-04 03:00:00 * CTY: Appling 5; Bacon 6; Baker 4; Baldwin 11; Banks 3; Barrow 22; Bartow 159; Ben Hill 3; Berrien 3; Bibb 34; Bleckley 1; Brooks 5; Bryan 15; Bulloch 5; Burke 8; Butts 9; Calhoun 11; Camden 6; Candler 1; Carroll 147; Catoosa 6; Charlton 1; Chatham 65; Chattahoochee 2; Chattooga 3; Cherokee 114; Clarke 59; Clay 7; Clayton 206; Clinch 2; Cobb 422; Coffee 15; Colquitt 44; Columbia 33; Cook 1; Coweta 56; Crisp 24; Dade 1; Dawson 13; Decatur 16; DeKalb 483; Dodge 5; Dooly 12; Dougherty 607; Douglas 78; Early 61; Effingham 6; Elbert 1; Emanuel 1; Fannin 8; Fayette 61; Floyd 79; Forsyth 61; Franklin 5; Fulton 910; Gilmer 1; Glynn 23; Gordon 21; Grady 3; Greene 12; Gwinnett 353; Habersham 2; Hall 81; Haralson 10; Harris 7; Hart 3; Heard 2; Henry 143; Houston 58; Irwin 6; Jackson 13; Jasper 2; Jefferson 2; Jenkins 2; Johnson 1; Jones 6; Lamar 6; Lanier 1; Laurens 15; Lee 123; Liberty 9; Lincoln 5; Long 1; Lowndes 32; Lumpkin 7; Macon 2; Madison 7; Marion 1; Mcduffie 5; Mcintosh 2; Meriwether 10; Miller 11; Mitchell 46; Monroe 7; Morgan 2; Murray 7; Muscogee 31; Newton 42; Oconee 21; Oglethorpe 1; Paulding 46; Peach 10; Pickens 9; Pierce 16; Pike 4; Polk 18; Pulaski 5; Putnam 2; Quitman 1; Rabun 2; Randolph 11; Richmond 50; Rockdale 67; Schley 5; Screven 2; Seminole 8; Spalding 23; Stephens 5; Stewart 1; Sumter 67; Talbot 3; Tattnall 3; Taylor 2; Telfair 2; Terrell 50; Thomas 26; Tift 34; Toombs 5; Towns 1; Troup 30; Turner 12; Twiggs 2; Union 1; unknown 260; Upson 8; Walker 3; Walton 16; Ware 17; Warren 4; Washington 6; Webster 1; Wheeler 1; White 3; Whitfield 15; Wilcox 2; Wilkes 3; Wilkinson 1; Worth 33
+Norway,Norway,"5,370",59,32,"5,279",4/3/20 22:00
+Australia,Australia,"5,330",28,649,"4,653",4/3/20 11:00
+Connecticut,USA,"4,914",131,0,"4,783",2020-04-04 03:00:00 * CTY: Fairfield 2716; Hartford 679; Litchfield 173; Middlesex 91; New Haven 891; New London 40; Tolland 79; unknown 218; Windham 27
+Ireland,Ireland,"4,273",120,5,"4,148",4/3/20 17:00
+Czech Republic,Czech Republic,"4,190",53,72,"4,065",4/4/20 0:00
+Colorado,USA,"4,181",111,0,"4,070",2020-04-04 03:00:00 * CTY: Adams 294; Alamosa 4; Arapahoe 500; Archuleta 1; Baca 9; Boulder 143; Broomfield 36; Chaffee 19; Clear Creek 6; Costilla 3; Crowley 1; Custer 2; Delta 4; Denver 716; Douglas 194; Eagle 333; Elbert 6; El Paso 374; Fremont 2; Garfield 45; Grand 4; Gunnison 88; Hinsdale 1; Huerfano 1; Jefferson 440; Kit Carson 4; Lake 3; La Plata 25; Larimer 134; Las Animas 1; Lincoln 1; Logan 7; Mesa 20; Mineral 2; Moffat 3; Montezuma 3; Montrose 26; Morgan 7; Otero 3; Park 5; Phillips 2; Pitkin 38; Pueblo 31; Rio Blanco 1; Rio Grande 5; Routt 28; Saguache 3; San Miguel 9; Summit 43; Teller 11; unknown 158; Washington 1; Weld 379; Yuma 2
+Russia,Russia,"4,149",34,281,"3,834",4/3/20 10:00
+Denmark,Denmark,"3,757",139,"1,193","2,425",4/3/20 16:00
+Chile,Chile,"3,737",22,427,"3,288",2020-04-03 22:00:00 * Arica 12; Tarapaca 13; Antofagasta 54; Atacama 5; Coquimbo 35; Valparaiso 176; Metropolitana 1742; O'Higgins 33; Maule 89; Ñuble 370; Biobio 302; Araucania 432; Los Rios 78; Los Lagos 234; Aysen 6; Magallanes 156. Source: @SouthernVOID
+Indiana,USA,"3,437",102,0,"3,335",2020-04-04 03:00:00 * CTY: Adams 1; Allen 58; Bartholomew 23; Blackford 1; Boone 38; Brown 3; Carroll 2; Cass 2; Clark 55; Clay 2; Clinton 3; Crawford 3; Dearborn 25; Decatur 70; DeKalb 3; Delaware 30; Dubois 3; Elkhart 29; Fayette 13; Floyd 37; Fountain 2; Franklin 48; Fulton 1; Gibson 4; Grant 12; Greene 9; Hamilton 220; Hancock 41; Harrison 23; Hendricks 138; Henry 7; Howard 25; Huntington 3; Jackson 25; Jasper 13; Jay 2; Jefferson 5; Jennings 31; Johnson 136; Knox 4; Kosciusko 8; LaGrange 4; Lake 244; LaPorte 17; Lawrence 22; Madison 67; Marion 1429; Marshall 4; Miami 5; Monroe 40; Montgomery 12; Morgan 52; Newton 1; Noble 5; Ohio 1; Orange 5; Owen 13; Parke 1; Porter 45; Posey 5; Putnam 13; Randolph 4; Ripley 47; Rush 8; Scott 6; Shelby 26; Spencer 1; Starke 2; Steuben 2; St. Joseph 72; Sullivan 3; Switzerland 6; Tippecanoe 26; Tipton 5; Vanderburgh 33; Verm. 2; Vigo 9; Wabash 1; Warren 2; Warrick 10; Washington 14; Wayne 6; Wells 2; White 3; Whitley 4
+Poland,Poland,"3,383",71,56,"3,256",4/3/20 22:00
+Ecuador,Ecuador,"3,368",145,65,"3,158",4/3/20 17:00
+Malaysia,Malaysia,"3,333",53,827,"2,453",4/3/20 10:00
+Ohio,USA,"3,312",91,0,"3,221",2020-04-04 03:00:00 * CTY: Allen 12; Ashland 4; Ashtabula 9; Athens 3; Auglaize 4; Belmont 14; Brown 3; Butler 49; Carroll 5; Champaign 5; Clark 7; Clermont 17; Clinton 6; Columbiana 26; Coshocton 10; Crawford 7; Cuyahoga 780; Darke 28; Defiance 7; Delaware 61; Erie 6; Fairfield 32; Fayette 1; Franklin 503; Fulton 4; Gallia 4; Geauga 41; Greene 9; Guernsey 1; Hamilton 203; Hancock 9; Hardin 1; Highland 3; Holmes 2; Huron 5; Jefferson 16; Knox 5; Lake 65; Lawrence 3; Licking 35; Logan 3; Lorain 95; Lucas 233; Madison 13; Mahoning 220; Marion 11; Medina 79; Mercer 6; Miami 66; Montgomery 57; Morrow 1; Muskingum 4; Ottawa 6; Perry 2; Pickaway 13; Pike 1; Portage 64; Preble 1; Richland 8; Ross 3; Sandusky 5; Seneca 5; Shelby 7; Stark 72; Summit 165; Trumbull 72; Tuscarawas 18; Union 4; Van Wert 2; Warren 31; Washington 4; Wayne 13; Williams 1; Wood 20; Wyandot 2
+Romania,Romania,"3,183",122,283,"2,778",4/3/20 16:00
+Tennessee,USA,"3,068",44,0,"3,024",2020-04-04 03:00:00 * CTY: Anderson 10; Bedford 6; Benton 4; Bledsoe 2; Blount 33; Bradley 21; Campbell 4; Cannon 4; Carroll 6; Carter 3; Cheatham 11; Chester 5; Claiborne 2; Clay 1; Cocke 1; Coffee 3; Cumberland 22; Davidson 685; Dekalb 5; Dickson 21; Dyer 5; Fayette 17; Fentress 1; Franklin 12; Gibson 7; Giles 3; Grainger 3; Greene 16; Grundy 11; Hamblen 3; Hamilton 68; Hardeman 5; Hardin 2; Hawkins 8; Haywood 2; Henry 4; Hickman 1; Houston 1; Humphreys 3; Jackson 3; Jefferson 6; Johnson 2; Knox 98; Lauderdale 2; Lawrence 3; Lewis 2; Lincoln 4; Loudon 12; Macon 7; Madison 17; Marion 14; Marshall 4; Maury 20; McMinn 3; McNairy 3; Meigs 2; Monroe 5; Montgomery 41; Morgan 2; Obion 2; Out-of-state 187; Overton 2; Perry 2; Polk 2; Putnam 50; Roane 3; Robertson 51; Rutherford 127; Scott 3; Sequatchie 2; Sevier 13; Shelby 640; Smith 3; Sullivan 18; Sumner 283; Tipton 28; Trousdale 7; Unicoi 1; Union 1; unknown 54; Warren 1; Washington 20; Wayne 2; Weakley 1; White 2; Williamson 221; Wilson 71
+Philippines,Philippines,"3,018",136,52,"2,830",4/3/20 10:00
+Maryland,USA,"2,758",43,0,"2,715",2020-04-04 03:00:00 * CTY: Allegany 2; Anne Arundel 249; Baltimore 427; Baltimore City 313; Calvert 30; Caroline 4; Carroll 129; Cecil 25; Charles 90; Dorchester 1; Frederick 54; Garrett 3; Harford 41; Howard 166; Kent 5; Montgomery 566; Prince George's 563; Queen Anne's 12; Somerset 4; St. Mary's 30; Talbot 5; Washington 27; Wicomico 7; Worcester 5
+Pakistan,Pakistan,"2,686",40,126,"2,520",4/4/20 0:00
+Japan,Japan,"2,617",63,472,"2,082",4/3/20 10:00
+Luxembourg,Luxembourg,"2,612",31,500,"2,081",4/3/20 17:00
+India,India,"2,547",62,163,"2,322",4/4/20 1:00
+North Carolina,USA,"2,336",30,0,"2,306",2020-04-04 03:00:00 * CTY: Alamance 15; Alexander 2; Alleghany 2; Anson 3; Ashe 1; Beaufort 9; Bertie 6; Bladen 1; Brunswick 24; Buncombe 31; Burke 13; Cabarrus 58; Caldwell 5; Carteret 16; Caswell 1; Catawba 20; Chatham 19; Cherokee 11; Chowan 1; Clay 3; Cleveland 13; Columbus 5; Craven 13; Cumberland 42; Currituck 2; Dare 3; Davidson 51; Davie 12; Duplin 4; Durham 172; Edgecombe 4; Forsyth 80; Franklin 13; Gaston 43; Gates 1; Granville 24; Greene 5; Guilford 88; Halifax 7; Harnett 24; Haywood 2; Henderson 22; Hertford 4; Hoke 9; Iredell 42; Jackson 2; Johnston 25; Lee 3; Lenoir 7; Lincoln 9; Macon 1; Martin 3; McDowell 8; Mecklenburg 601; Mitchell 2; Montgomery 10; Moore 12; Nash 17; New Hanover 42; Northampton 38; Onslow 13; Orange 44; Pamlico 3; Pasquotank 7; Pender 1; Perquimans 1; Person 4; Pitt 33; Polk 6; Randolph 26; Robeson 3; Rockingham 3; Rowan 44; Rutherford  12; Sampson 2; Scotland 2; Stanly 7; Stokes 5; Surry 2; Swain 1; Transylvania 5; Union 63; Vance 9; Wake 279; Warren 1; Washington 3; Watauga 8; Wayne 12; Wilkes 4; Wilson 21; Yadkin 6
+Missouri,USA,"2,158",33,0,"2,125",2020-04-04 03:00:00 * CTY: Adair 8; Atchison 1; Barry 1; Bates 3; Benton 3; Bollinger 1; Boone 74; Buchanan 8; Butler 1; Caldwell 1; Callaway 18; Camden 21; Cape Girardeau 15; Carter 4; Cass 21; Cedar 5; Chariton 4; Christian 13; Clark 1; Clay 26; Clinton 8; Cole 26; Cooper 2; Crawford 1; DeKalb 1; Dunklin 7; Franklin 23; Gasconade 1; Greene 64; Harrison 2; Henry 1; Howell 1; Jackson 132; Jasper 8; Jefferson 62; Johnson 28; Joplin 2; Kansas City 153; Lafayette 20; Lincoln 16; Livingston 1; Macon 3; Maries 2; McDonald 2; Moniteau 2; Montgomery 3; Morgan 1; New Madrid 1; Newton 6; Nodaway 1; Osage 2; Pemiscot 3; Perry 21; Pettis 2; Pike 2; Platte 14; Pulaski 10; Ralls 1; Randolph 4; Ray 2; Reynolds 2; Ripley 2; Saline 2; Scott 7; Shelby 1; St. Charles 132; Ste. Genevieve 6; St. Francois 12; St. Louis 794; St. Louis City 297; Stoddard 7; Stone 2; Taney 5; TBD 3; Texas 1; Warren 7; Webster 2; Wright 6
+Saudi Arabia,Saudi Arabia,"2,039",25,351,"1,663",4/3/20 16:00
+Wisconsin,USA,"2,012",51,0,"1,961",2020-04-04 03:00:00 * CTY: Adams 1; Ashland 1; Barron 1; Bayfield 3; Brown 24; Buffalo 2; Calumet 3; Chippewa 14; Clark 6; Columbia 18; Crawford 1; Dane 252; Dodge 14; Door 2; Douglas 7; Dunn 5; Eau Claire 16; Fond du Lac 30; Grant 2; Green 8; Iowa 3; Iron 1; Jackson 2; Jefferson 13; Juneau 4; Kenosha 81; La Crosse 19; Marathon 9; Marinette 2; Marquette 2; Menominee 1; Milwaukee 1023; Monroe 3; Oconto 1; Oneida 3; Outagamie 19; Ozaukee 50; Pepin 7; Pierce 7; Portage 3; Racine 41; Richland 2; Rock 20; Rusk 1; Sauk 18; Sheboygan 20; St. Croix 7; Trempealeau 1; Vilas 3; Walworth 15; Washington 52; Waukesha 141; Waupaca 2; Winnebago 24; Wood 2
+Virginia,USA,"2,012",47,0,"1,965",2020-04-04 03:00:00 * CTY: Accomack 8; Albemarle 26; Alexandria 56; Alleghany 2; Amelia 5; Amherst 6; Arlington 135; Augusta 4; Bedford 3; Botetourt 8; Bristol 1; Brunswick 1; Buckingham 3; Buena Vista City 1; Campbell 2; Caroline 1; Carroll 1; Charke 2; Charles City 4; Charlottesville 17; Chesapeake 50; Chesterfield 89; Covington 1; Culpeper 7; Cumberland 1; Danville 9; Emporia 1; Fairfax 372; Fauquier 9; Fluvanna 5; Franklin 9; Franklin City 3; Frederick 20; Fredericksburg 4; Galax 1; Gloucester 8; Goochland 8; Greene 1; Greensville 4; Halifax 1; Hampton 29; Hanover 12; Harrisonburg 22; Henrico 112; Henry 3; Hopewell 7; Isle of Wight 11; James City 104; King and Queen 1; King George 6; King William 1; Lancaster 1; Lee 2; Lexington 2; Loudoun 130; Louisa 12; Lynchburg 9; Madison 2; Manassas City 13; Manassas Park 2; Mathews 2; Mecklenburg 7; Montgomery 1; Nelson 2; New Kent 6; Newport News 37; Norfolk 43; Northampton 2; Northumberland 3; Nottoway 1; Orange 4; Page 2; Petersburg 8; Pittsylvania 1; Poquoson 3; Portsmouth 17; Powhatan 4; Prince Edward 2; Prince George 10; Prince William 131; Pulaski 1; Radford 1; Richmond 1; Richmond City 76; Roanoke 9; Roanoke City 4; Rockbridge 2; Rockingham 11; Salem 1; Shenandoah 10; Smyth 2; Southampton 4; Spotsylvania 11; Stafford 29; Suffolk 10; Surry 3; Sussex 2; Tazewell 2; Virginia Beach 128; Warren 4; Washington 3; Waynesboro 3; Westmoreland 1; Williamsburg 9; Winchester 9; Wise 1; Wythe 2; York 17
+Indonesia,Indonesia,"1,986",181,134,"1,671",4/3/20 10:00
+Thailand,Thailand,"1,978",19,581,"1,378",4/3/20 10:00
+Arizona,USA,"1,769",41,0,"1,728",2020-04-04 03:00:00 * CTY: Apache 17; Cochise 5; Coconino 126; Gila 2; Graham 2; Greenlee 1; La Paz 2; Maricopa 1049; Mohave 9; Navajo 148; Pima 280; Pinal 77; Santa Cruz 3; Yavapai 35; Yuma 13
+South Carolina,USA,"1,700",34,0,"1,666",2020-04-04 03:00:00 * CTY: Abbeville 6; Aiken 22; Allendale 1; Anderson 62; Bamberg 5; Barnwell 2; Beaufort 131; Berkeley 42; Calhoun 3; Charleston 247; Cherokee 1; Chester 7; Chesterfield 10; Clarendon 34; Colleton 6; Darlington 15; Dillon 1; Dorchester 36; Edgefield 5; Fairfield 8; Florence 29; Georgetown 16; Greenville 174; Greenwood 9; Hampton 1; Horry 51; Jasper 8; Kershaw 136; Lancaster 31; Laurens 6; Lee 13; Lexington 78; Marion 2; Marlboro 3; McCormick 1; Newberry 5; Oconee 5; Orangeburg 25; Pickens 17; Richland 224; Saluda 2; Spartanburg 60; Sumter 75; Union 6; Williamsburg 6; York 73
+Panama,Panama,"1,673",41,10,"1,622",4/4/20 0:00
+Finland,Finland,"1,615",19,300,"1,296",4/3/20 10:00
+Greece,Greece,"1,613",59,52,"1,502",2020-04-03 18:00:00 * Attica 641; Aegean Islands 9; Thrace 24; Macedonia 122; Epirus 7; Thessaly 14; Peloponesse 78; Dodecanese 2; Central Greece 6; Crete 12; Ionian Islands 7; Cyclades 1; Undefined Location 571; Cruize Ship 119. Source: @bikerboyGR
+Peru,Peru,"1,595",61,537,997,2020-04-03 22:00:00 * Lima 1179; Loreto 84; Callao 59; Cusco 44; La Libertad 44; Arequipa 37; Lambayeque 35; Piura 27; Junin 19; Ancash 18; Tumbes 16; Ica 8; Huanuco 6; San Martin 6; Cajamarca 4; Tacna 3; Madre de Dios 2; Apurimac 1; Ayacucho 1; Pasco 1; Huancavelica 1. Source: @SouthernVOID
+Nevada,USA,"1,559",43,0,"1,516",2020-04-04 03:00:00 * CTY: Carson City 5; Clark 1279; Douglas 7; Elko 7; Humboldt 7; Lyon 2; Nye 6; unknown 16; Washoe 229; White Pine 1
+Alabama,USA,"1,535",38,0,"1,497",2020-04-04 03:00:00 * CTY: Autauga 12; Baldwin 28; Barbour 1; Bibb 4; Blount 9; Bullock 2; Butler 1; Calhoun 20; Chambers 81; Cherokee 5; Chilton 15; Choctaw 4; Clarke 3; Clay 8; Cleburne 7; Coffee 6; Colbert 5; Conecuh 1; Coosa 6; Covington 4; Crenshaw 1; Cullman 15; Dale 1; Dallas 7; DeKalb 10; Elmore 19; Escambia 2; Etowah 21; Fayette 1; Franklin 5; Greene 5; Hale 3; Henry 2; Houston 12; Jackson 12; Jefferson 369; Lamar 1; Lauderdale 14; Lawrence 4; Lee 99; Limestone 30; Lowndes 2; Macon 5; Madison 123; Marengo 8; Marion 16; Marshall 17; Mobile 103; Monroe 5; Montgomery 61; Morgan 24; Pickens 11; Pike 10; Randolph 10; Russell 4; Shelby 115; St. Clair 23; Sumter 7; Talladega 12; Tallapoosa 20; Tuscaloosa 41; Walker 49; Washington 5; Wilcox 6; Winston 3
+Guangdong,Mainland China,"1,514",8,"1,368",138,4/3/20 7:00
+Mexico,Mexico,"1,510",50,633,827,4/3/20 10:00
+South Africa,South Africa,"1,505",7,95,"1,403",4/3/20 16:00
+Dominican Republic,Dominican Republic,"1,488",68,16,"1,404",4/3/20 16:00
+Serbia,Serbia,"1,476",39,0,"1,437",4/3/20 20:00
+Iceland,Iceland,"1,364",4,309,"1,051",4/3/20 16:00
+Mississippi,USA,"1,358",29,0,"1,329",2020-04-04 03:00:00 * CTY: Adams 14; Alcorn 6; Amite 5; Attala 14; Benton 5; Bolivar 32; Calhoun 4; Carroll 5; Chickasaw 15; Choctaw 7; Claiborne 1; Clarke 4; Clay 7; Coahoma 26; Copiah 11; Covington 4; DeSoto 111; Forrest 30; Franklin 3; George 4; Grenada 4; Hancock 28; Harrison 69; Hinds 139; Holmes 16; Humphreys 4; Itawamba 3; Jackson 75; Jasper 3; Jefferson 1; Jones 8; Kemper 4; Lafayette 21; Lamar 9; Lauderdale 50; Lawrence 5; Leake 7; Lee 26; Leflore 21; Lincoln 14; Lowndes 12; Madison 65; Marion 5; Marshall 19; Monroe 12; Montgomery 10; Neshoba 5; Newton 4; Noxubee 5; Oktibbeha 23; Panola 8; Pearl River 41; Perry 11; Pike 21; Pontotoc 11; Prentiss 9; Quitman 4; Rankin 64; Scott 17; Sharkey 2; Simpson 5; Smith 6; Sunflower 13; Tallahatchie 2; Tate 13; Tippah 30; Tishomingo 1; Tunica 14; Union 5; Walthall 11; Warren 2; Washington 31; Wayne 1; Webster 8; Wilkinson 22; Winston 11; Yalobusha 7; Yazoo 13
+Henan,Mainland China,"1,276",22,"1,251",3,3/29/20 2:00
+Colombia,Colombia,"1,267",25,55,"1,187",2020-04-04 01:00:00 * States Bogotá D.C. 587 Cundinamarca 44 Antioquia 146 Valle del Cauca 165 Bolívar 45 Atlántico 47 Magdalena 12 Cesar 16 Sucre 1 La Guajira 1 Córdoba 2 Norte de Santander 25 Santander 12 Cauca 12 Caldas 16 Risaralda 37 Quindío 23 Huila 32 Tolima 15 Meta 13 Casanare 2 San Andrés y Providencia 2 Nariño 6 Boyacá 6. Source: @HeidyBello
+Argentina,Argentina,"1,265",36,256,973,2020-04-03 03:00:00 * CABA 345; Buenos Aires 316; Santa Fe 152; Cordoba 117; Chaco 99; Tierra del Fuego 63; Neuquen 28; Mendoza 25; Corrientes 22; Santa Cruz 21; Tucuman 21; Entre Rios 16; Rio Negro 9; San Luis 9; Jujuy 5; La Rioja 4; La Pampa 3; Misiones 3; Salta 3; Santiago del Estero 3; San Juan 1. Source: @SouthernVOID
+United Arab Emirates,United Arab Emirates,"1,264",9,108,"1,147",4/3/20 20:00
+Zhejiang,Mainland China,"1,260",1,"1,228",31,4/3/20 4:00
+Utah,USA,"1,248",7,0,"1,241",2020-04-04 03:00:00 * CTY: Box Elder 10; Cache 15; Carbon 1; Central Utah 2; Davis 122; Duchesne 1; Emery 1; Garfield 1; Grand 1; Iron 10; Kane 1; Salt Lake 541; San Juan 5; Summit 222; Tooele 16; Uintah 1; Utah 150; Wasatch 69; Washington 21; Weber-Morgan 58
+Algeria,Algeria,"1,171",105,62,"1,004",4/3/20 17:00
+Singapore,Singapore,"1,114",5,266,843,4/3/20 10:00
+Croatia,Croatia,"1,079",8,92,979,4/3/20 16:00
+Qatar,Qatar,"1,075",3,93,979,4/3/20 17:00
+Ukraine,Ukraine,"1,072",23,22,"1,027",4/3/20 20:00
+Hunan,Mainland China,"1,019",4,"1,014",1,4/2/20 2:00
+Idaho,USA,"1,013",10,0,"1,003",2020-04-04 03:00:00 * CTY: Ada 351; Adams 1; Bannock 5; Bingham 2; Blaine 405; Bonner 2; Bonneville 5; Camas 1; Canyon 89; Cassia 4; Custer 2; Elmore 10; Fremont 1; Gem 7; Gooding 1; Idaho 2; Jefferson 3; Jerome 11; Kootenai 37; Latah 1; Lewis 1; Lincoln 7; Madison 4; Minidoka 1; Nez Perce 13; Owyhee 2; Payette 5; Teton 3; Twin Falls 33; Valley 3; Washington 1
+Anhui,Mainland China,990,6,984,0,3/9/20 1:00
+Oklahoma,USA,990,38,0,952,2020-04-04 03:00:00 * CTY: Adair 14; Atoka 1; Beckham 1; Bryan 3; Caddo 2; Canadian 29; Carter 1; Cherokee 7; Choctaw 1; Cleveland 130; Comanche 33; Cotton 4; Craig 2; Creek 39; Custer 5; Delaware 11; Garfield 5; Garvin 8; Grady 5; Grant 1; Greer 5; Jackson 4; Kay 25; Kingfisher 3; Kiowa 1; Latimer 2; Le Flore 1; Lincoln 7; Logan 5; Love 2; Major 1; Mayes 5; McClain 10; McCurtain 1; Muskogee 16; Noble 5; Nowata 7; Oklahoma 237; Okmulgee 7; Osage 21; Ottawa 8; Out-of-State 2; Pawnee 16; Payne 18; Pittsburg 2; Pontotoc 7; Pottawatomie 11; Rogers 10; Seminole 1; Sequoyah 4; Stephens 8; Texas 1; Tulsa 175; Wagoner 30; Washington 28; Washita 1; Woodward 1
+Egypt,Egypt,985,66,216,703,4/3/20 20:00
+Estonia,Estonia,961,12,48,901,4/3/20 10:00
+Jiangxi,Mainland China,937,1,934,2,3/29/20 2:00
+Slovenia,Slovenia,934,20,70,844,4/3/20 16:00
+Oregon,USA,899,22,0,877,2020-04-04 03:00:00 * CTY: Benton 17; Clackamas 66; Clatsop 4; Columbia 1; Crook 1; Deschutes 36; Douglas 9; Grant 1; Hood River 3; Jackson 27; Josephine 12; Klamath 13; Lane 21; Lincoln 4; Linn 37; Malheur 2; Marion 178; Morrow 2; Multnomah 175; Polk 20; Tillamook 3; Umatilla 5; Union 3; Wallowa 1; Wasco 7; Washington 228; Yamhill 23
+New Zealand,New Zealand,868,1,103,764,4/3/20 10:00
+Hong Kong,Hong Kong,845,4,173,668,4/3/20 10:00
+Kentucky,USA,831,37,0,794,2020-04-04 03:00:00 * CTY: Adair 4; Allen 2; Anderson 3; Barren 1; Boone 10; Bourbon 4; Boyd 13; Boyle 7; Bracken 1; Breathitt 1; Bullitt 10; Butler 1; Caldwell 2; Calloway 5; Campbell 12; Carroll 2; Carter 1; Christian 20; Clark 11; Crittenden 1; Cumberland 1; Daviess 55; Edmonson 5; Fayette 121; Franklin 8; Grant 2; Graves 2; Grayson 2; Greenup 1; Hancock 1; Hardin 7; Harrison 12; Henderson 4; Henry 2; Hopkins 27; Jefferson 257; Jessamine 15; Johnson 1; Kenton 32; Larue 2; Laurel 2; Lawrence 1; Lewis 1; Logan 4; Lyon 2; Madison 11; Marion 1; Marshall 2; Martin 1; Mason 2; McCracken 10; McCreary 1; McLean 1; Menifee 3; Mercer 2; Montgomery 5; Nelson 3; Nicholas 1; Oldham 5; Pendleton 1; Perry 1; Pike 1; Powell 1; Pulaski 12; Rockcastle 1; Scott 11; Shelby 4; Simpson 5; Spencer 2; Taylor 2; Union 2; unknown 32; Warren 17; Washington 1; Wayne 3; Webster 2; Woodford 7
+Iraq,Iraq,820,54,226,540,4/3/20 16:00
+Morocco,Morocco,791,48,57,686,4/3/20 22:00
+Minnesota,USA,789,22,0,767,2020-04-04 03:00:00 * CTY: Anoka 34; Beltrami 4; Benton 1; Big Stone 1; Blue earth 10; Brown 2; Carlton 5; Carver 10; Cass 1; Chisago 4; Clay 8; Clearwater 2; Cottonwood 5; Crow Wing 3; Dakota 54; Dodge 10; Douglas 1; Faribault 3; Filmore 9; Freeborn 7; Goodhue 5; Hennepin 242; Isanti 2; Itasca 2; Jackson 1; Kandiyohi 2; Koochiching 1; Lac Qui Parle 1; Le Sueur 19; Lincoln 1; Lyon 3; Mahnomen 1; Martin 32; Meeker 1; Mower 15; Nicollet 3; Olmsted 76; Otter Tail 1; Ramsey 71; Renville 2; Rice 3; Scott 11; Sherburne 8; Sibley 1; Stearns 5; Steele 6; St. Louis 13; Traverse 2; unknown 1; Wabasha 6; Waseca 3; Washington 51; Watonwan 3; Wilkin 2; Winona 11; Wright 7; Yellow Medicine 1
+Shandong,Mainland China,778,7,754,17,4/3/20 1:00
+District of Columbia,USA,757,15,0,742,2020-04-04 03:00:00 * CTY: District of Columbia 757
+Arkansas,USA,738,12,0,726,2020-04-04 03:00:00 * CTY: Arkansas 1; Ashley 1; Baxter 1; Benton 42; Boone 1; Bradley 4; Carroll 1; Chicot 2; Clark 27; Cleburne 65; Cleveland 5; Columbia 1; Conway 1; Craighead 16; Crawford 1; Crittenden 43; Cross 5; Desha 2; Drew 1; Faulkner 40; Garland 37; Grant 3; Greene 1; Hempstead 1; Hot Spring 5; Howard 1; Independence 3; Jefferson 53; Johnson 7; Lafayette 1; Lawrence 1; Lee 1; Lincoln 6; Lonoke 16; Miller 8; Mississippi 1; Monroe 1; Nevada 1; Newton 1; Ouachita 1; Perry 1; Pike 1; Poinsett 5; Polk 5; Pope 8; Prairie 1; Pulaski 137; Randolph 1; Saline 21; Scott 1; Searcy 2; Sebastian 8; Sevier 1; Sharp 1; St. Francis 1; Stone 5; Union 10; unknown 51; Van Buren 20; Washington 25; White 23; Woodruff 1
+Armenia,Armenia,736,7,43,686,4/3/20 10:00
+Rhode Island,USA,711,14,0,697,2020-04-04 03:00:00 * CTY: Bristol 21; Kent 59; Newport 33; Providence 418; unknown 146; Washington 34
+Others,Japan (Diamond Princess),706,6,10,690,3/3/20 3:00
+Iowa,USA,699,11,0,688,2020-04-04 03:00:00 * CTY: Adair 1; Allamakee 16; Appanoose 1; Audubon 1; Benton 7; Black Hawk 8; Boone 2; Bremer 1; Buchanan 3; Butler 1; Carroll 1; Cedar 11; Cerro Gordo 10; Clay 2; Clayton 3; Clinton 15; Crawford 4; Dallas 33; Des Moines 1; Dickinson 1; Dubuque 23; Fayette 3; Guthrie 1; Hancock 3; Hardin 1; Harrison 10; Henry 6; Iowa 5; Jackson 2; Jasper 8; Jefferson 2; Johnson 83; Jones 5; Keokuk 1; Kossuth 1; Linn 118; Louisa 1; Lyon 1; Madison 1; Mahaska 3; Marshall 10; Mitchell 2; Monona 6; Montgomery 1; Muscatine 22; Obrien 3; Page 2; Plymouth 1; Polk 100; Pottawattamie 6; Poweshiek 6; Scott 31; Shelby 5; Sioux 5; Story 5; Tama 22; Taylor 1; Van Buren 5; Wapello 1; Warren 8; Washington 43; Webster 1; Winneshiek 4; Woodbury 8; Wright 1
+Lithuania,Lithuania,696,9,7,680,4/3/20 10:00
+Bahrain,Bahrain,672,4,382,286,4/3/20 16:00
+Jiangsu,Mainland China,651,0,632,19,4/3/20 4:00
+Kansas,USA,629,18,0,611,2020-04-04 03:00:00 * CTY: Atchison 1; Barton 3; Bourbon 3; Butler 7; Chautauqua 2; Cherokee 5; Clay 1; Cloud 1; Coffey 18; Cowley 1; Crawford 4; Doniphan 1; Douglas 31; Finney 4; Ford 1; Franklin 9; Gove 1; Harvey 2; Jackson 1; Jefferson 2; Johnson 172; Labette 1; Leavenworth 31; Linn 5; Lyon 17; Marion 1; McPherson 6; Mitchell 2; Montgomery 6; Morris 2; Neosho 1; Osage 3; Osborne 1; Ottawa 1; Pottawatomie 2; Pratt 1; Reno 9; Riley 11; Saline 4; Sedgwick 85; Shawnee 26; Stafford 1; Stevens 1; Sumner 2; Woodson 3; Wyandotte 137
+Hungary,Hungary,623,26,43,554,4/3/20 10:00
+Moldova,Moldova,591,8,26,557,4/3/20 17:00
+Beijing,Mainland China,584,8,434,142,4/3/20 9:00
+Chongqing,Mainland China,579,6,570,3,3/29/20 1:00
+Bosnia and Herzegovina,Bosnia and Herzegovina,579,17,27,535,4/3/20 20:00
+Sichuan,Mainland China,555,3,537,15,4/3/20 5:00
+New Hampshire,USA,540,7,0,533,2020-04-04 03:00:00 * CTY: Belknap 14; Carroll 17; Cheshire 9; Coos 1; Grafton 38; Hillsborough-Manchester 74; Hillsborough-Nashua 51; Hillsborough-other 69; Merrimack 36; Rockingham 190; Strafford 36; Sullivan 5
+Shanghai,Mainland China,526,6,348,172,4/3/20 7:00
+Cameroon,Cameroon,509,8,17,484,4/3/20 22:00
+Lebanon,Lebanon,508,17,46,445,4/3/20 10:00
+Tunisia,Tunisia,495,18,5,472,4/3/20 16:00
+New Mexico,USA,495,10,0,485,2020-04-04 03:00:00 * CTY: Bernalillo 202; Chaves 13; Cibola 8; Curry 6; Dona Ana 23; Eddy 4; Grant 1; Lea 2; McKinley 32; Otero 1; Rio Arriba 5; Roosevelt 1; Sandoval 66; San Juan 50; San Miguel 1; Santa Fe 48; Socorro 8; Taos 13; Torrance 3; unknown 3; Valencia 5
+Latvia,Latvia,493,0,31,462,4/3/20 10:00
+Heilongjiang,Mainland China,489,13,469,7,4/3/20 1:00
+Bulgaria,Bulgaria,485,14,30,441,4/3/20 16:00
+Kazakhstan,Kazakhstan,464,6,29,429,4/3/20 20:00
+Slovakia,Slovakia,450,1,10,439,4/3/20 16:00
+Delaware,USA,450,14,0,436,2020-04-04 03:00:00 * CTY: Kent 54; New Castle 279; Sussex 117
+Azerbaijan,Azerbaijan,443,5,32,406,4/3/20 10:00
+Andorra,Andorra,439,16,16,407,4/3/20 16:00
+Maine,USA,432,9,0,423,2020-04-04 03:00:00 * CTY: Androscoggin 19; Aroostook 1; Cumberland 222; Franklin 4; Hancock 2; Kennebec 19; Knox 9; Lincoln 8; Oxford 10; Penobscot 20; Sagadahoc 12; Somerset 2; unknown 11; Waldo 3; Washington 1; York 89
+North Macedonia,North Macedonia,430,11,17,402,4/3/20 16:00
+Kuwait,Kuwait,417,0,82,335,4/3/20 10:00
+Costa Rica,Costa Rica,416,2,11,403,4/3/20 22:00
+Cyprus,Cyprus,396,11,28,357,4/3/20 16:00
+Vermont,USA,389,17,0,372,2020-04-04 03:00:00 * CTY: Addison 32; Bennington 19; Caledonia 4; Chittenden 199; Franklin 21; Lamoille 17; Orange 4; Orleans 8; Rutland 17; unknown 6; Washington 21; Windham 21; Windsor 20
+Uruguay,Uruguay,386,4,86,296,4/4/20 0:00
+Puerto Rico,USA,378,15,0,363,2020-04-04 03:00:00 * CTY: Puerto Rico 378
+Belarus,Belarus,351,4,53,294,4/3/20 16:00
+Fujian,Mainland China,349,1,300,48,4/3/20 3:00
+Taiwan,Taiwan,348,5,50,293,4/3/20 9:00
+Hebei,Mainland China,326,6,310,10,4/3/20 2:00
+Reunion,Reunion,321,0,40,281,4/3/20 16:00
+Hawaii,USA,319,3,0,316,2020-04-04 03:00:00 * CTY: Hawaii 20; Honolulu 237; Kauai 13; Maui 36; Residents diagnosed Outside of HI 2; unknown 11
+Jordan,Jordan,310,5,58,247,4/3/20 20:00
+Albania,Albania,304,16,89,199,4/3/20 10:00
+Burkina Faso,Burkina Faso,302,16,50,236,4/3/20 16:00
+Nebraska,USA,285,6,0,279,2020-04-04 03:00:00 * CTY: Adams 6; Antelope 1; Buffalo 10; Cass 2; Cherry 1; Colfax 1; Cuming 1; Dawson 1; Dodge 5; Douglas 125; Gage 2; Gosper 1; Hall 27; Hamilton 3; Kearney 1; Kimball 5; Knox 2; Lancaster 14; Lincoln 15; Madison 5; Merrick 1; Nemaha 1; Otoe 1; Platte 3; Sarpy 25; Saunders 3; Scotts Bluff 3; Washington 19; York 1
+Afghanistan,Afghanistan,281,6,10,265,4/3/20 20:00
+Cuba,Cuba,269,6,15,248,4/3/20 16:00
+Montana,USA,262,5,0,257,2020-04-04 03:00:00 * CTY: Broadwater 4; Carbon 1; Cascade 11; Deer Lodge 3; Flathead 20; Gallatin 101; Glacier 1; Hill 1; Jefferson 2; Lake 4; Lewis and Clark 13; Liberty 1; Lincoln 6; Madison 6; Meagher 1; Missoula 17; Musselshell 1; Park 6; Ravalli 1; Roosevelt 1; Silver Bow 11; Toole 12; Yellowstone 38
+Shaanxi,Mainland China,255,3,242,10,4/1/20 2:00
+Guangxi,Mainland China,254,2,295,-43,3/22/20 18:00
+Oman,Oman,252,1,57,194,4/3/20 10:00
+San Marino,San Marino,251,32,26,193,4/4/20 0:00
+Navajo Nation,USA,241,7,0,234,2020-04-04 03:00:00 * CTY: Apache 22; Cibola 3; Coconino 49; McKinley 14; Navajo 97; San Juan NM 22; San Juan UT 7; unknown 27
+Vietnam,Vietnam,239,0,85,154,4/4/20 0:00
+West Virginia,USA,237,2,0,235,2020-04-04 03:00:00 * CTY: Barbour 1; Berkeley 37; Cabell 5; Greenbrier 3; Hancock 5; Hardy 2; Harrison 17; Jackson 11; Jefferson 12; Kanawha 40; Logan 4; Marion 11; Marshall 4; Mason 3; Mercer 3; Mineral 2; Monongalia 35; Morgan 1; Ohio 11; Pendleton 1; Pleasants 1; Preston 4; Putnam 5; Raleigh 3; Randolph 2; Roane 2; Tucker 3; Upshur 1; Wetzel 2; Wirt 1; Wood 5
+Uzbekistan,Uzbekistan,227,2,25,200,4/3/20 20:00
+Honduras,Honduras,222,15,3,204,4/3/20 10:00
+Cote d'Ivoire,Cote d'Ivoire,218,1,19,198,4/3/20 22:00
+Nigeria,Nigeria,210,4,25,181,4/4/20 0:00
+Senegal,Senegal,207,1,66,140,4/3/20 16:00
+Ghana,Ghana,205,5,31,169,4/3/20 20:00
+Malta,Malta,202,0,2,200,4/3/20 16:00
+Palestine,Palestine,194,1,21,172,4/3/20 22:00
+South Dakota,USA,187,2,0,185,2020-04-04 03:00:00 * CTY: Aurora 1; Beadle 21; Bon Homme 1; Brookings 2; Brown 7; Charles Mix 1; Clark 1; Clay 3; Codington 8; Davison 3; Deuel 1; Fall River 1; Faulk 1; Hamlin 1; Hughes 3; Hutchinson 2; Lake 1; Lawrence 9; Lincoln 19; Lyman 1; Marshall 1; McCook 2; Meade 1; Minnehaha 68; Pennington 6; Roberts 3; Spink 1; Todd 1; Turner 3; Union 3; Yankton 11
+Mauritius,Mauritius,186,7,0,179,4/3/20 16:00
+Yunnan,Mainland China,184,2,172,10,4/3/20 0:00
+Tianjin,Mainland China,180,3,140,37,4/3/20 10:00
+Faroe Islands,Faroe Islands,179,0,91,88,4/3/20 10:00
+Montenegro,Montenegro,174,2,1,171,4/3/20 17:00
+North Dakota,USA,173,3,0,170,2020-04-04 03:00:00 * CTY: Barnes 2; Burke 2; Burleigh 32; Cass 46; Divide 1; Dunn 1; Eddy 1; Foster 1; Grand Forks 6; Grant 1; McHenry 1; McIntosh 1; McKenzie 2; McLean 2; Morton 16; Mountrail 11; Oliver 1; Pierce 2; Ramsey 3; Sioux 1; Slope 1; Stark 19; Walsh 1; Ward 14; Williams 5
+Hainan,Mainland China,168,6,168,-6,3/24/20 5:00
+Wyoming,USA,166,0,0,166,2020-04-04 03:00:00 * CTY: Albany 4; Campbell 6; Carbon 4; Converse 3; Fremont 27; Goshen 2; Johnson 8; Laramie 40; Lincoln 1; Natrona 21; Park 1; Sheridan 10; Sublette 1; Sweetwater 3; Teton 32; Uinta 1; Washakie 2
+Sri Lanka,Sri Lanka,159,4,24,131,4/3/20 20:00
+Alaska,USA,157,3,0,154,2020-04-04 03:00:00 * CTY: Anchorage 73; Fairbanks North Star 42; Juneau 11; Kenai Peninsula 10; Ketchikan Gateway 14; Matanuska-Susitna 4; Petersburg 1; Southeast Fairbanks 1; Yukon-Koyukuk 1
+Georgia (country),Georgia,155,0,27,128,4/3/20 20:00
+Venezuela,Venezuela,153,7,52,94,4/4/20 0:00
+Democratic Republic of the Congo,Democratic Republic of the Congo,148,16,3,129,4/4/20 0:00
+Guizhou,Mainland China,146,2,144,0,3/17/20 2:00
+Martinique,Martinique,143,3,27,113,4/3/20 22:00
+Liaoning,Mainland China,141,2,124,15,4/2/20 14:00
+Gansu,Mainland China,138,2,125,11,3/29/20 15:00
+Shanxi,Mainland China,137,0,133,4,4/1/20 0:00
+Brunei,Brunei,134,1,65,68,4/3/20 16:00
+Bolivia,Bolivia,132,9,1,122,4/3/20 10:00
+Kyrgyzstan,Kyrgyzstan,130,1,5,124,4/3/20 10:00
+Guadeloupe,Guadeloupe,130,7,24,99,4/3/20 20:00
+Mayotte,Mayotte,128,2,10,116,4/3/20 20:00
+Kosovo,Kosovo,126,1,10,115,4/3/20 10:00
+Kenya,Kenya,122,4,4,114,4/3/20 16:00
+Niger,Niger,120,5,0,115,4/3/20 22:00
+Nei Mongol,Mainland China,117,1,74,42,4/2/20 0:00
+Isle of Man,Isle of Man,114,1,0,113,4/3/20 10:00
+Cambodia,Cambodia,114,0,35,79,4/3/20 10:00
+Grand Princess,USA,103,3,0,100,2020-04-04 03:00:00 * CTY: San Diego 1; Solano 7; unknown 95
+Jilin,Mainland China,98,1,92,5,3/29/20 1:00
+Trinidad and Tobago,Trinidad and Tobago,98,6,1,91,4/3/20 22:00
+Gibraltar,Gibraltar,95,0,46,49,4/3/20 16:00
+Paraguay,Paraguay,92,3,4,85,4/3/20 10:00
+Rwanda,Rwanda,89,0,0,89,4/3/20 20:00
+Guam,USA,84,4,0,80,2020-04-04 03:00:00 * CTY: Guam 84
+Xinjiang Uygur,Mainland China,76,3,73,0,3/9/20 1:00
+Ningxia,Mainland China,75,0,75,0,3/17/20 2:00
+Liechtenstein,Liechtenstein,75,0,0,75,4/2/20 17:00
+Guinea,Guinea,73,0,2,71,4/3/20 20:00
+Madagascar,Madagascar,70,0,0,70,4/3/20 20:00
+Monaco,Monaco,64,1,3,60,4/3/20 20:00
+Aruba,Aruba,62,0,1,61,4/3/20 17:00
+Bangladesh,Bangladesh,61,6,26,29,4/3/20 10:00
+French Guiana,French Guiana,57,0,22,35,4/3/20 17:00
+Jamaica,Jamaica,53,3,7,43,4/4/20 0:00
+Barbados,Barbados,51,0,0,51,4/3/20 20:00
+Guatemala,Guatemala,50,1,12,37,4/3/20 16:00
+Djibouti,Djibouti,49,0,8,41,4/3/20 16:00
+Diamond Princess,USA,49,0,0,49,2020-04-04 03:00:00 * CTY: Riverside 2; San Diego 1; Sonoma 2; unknown 44
+Uganda,Uganda,48,0,0,48,4/3/20 20:00
+El Salvador,El Salvador,46,2,0,44,4/3/20 10:00
+Macau,Macau,43,0,10,33,4/3/20 18:00
+Togo,Togo,40,3,17,20,4/3/20 16:00
+Mali,Mali,39,3,0,36,4/3/20 20:00
+Zambia,Zambia,39,1,0,38,4/2/20 12:00
+French Polynesia,French Polynesia,39,0,0,39,4/3/20 20:00
+USA Virgin Islands,USA,38,0,0,38,2020-04-04 03:00:00 * CTY: St. Croix 11; St. John 2; St. Thomas 24; unknown 1
+Bermuda,Bermuda,35,0,11,24,4/3/20 1:00
+Cayman Islands,Cayman Islands,29,1,1,27,4/4/20 0:00
+Ethiopia,Ethiopia,25,0,4,21,3/31/20 11:00
+Bahamas,Bahamas,24,1,1,22,4/3/20 1:00
+Sint Maarten,Sint Maarten,23,2,6,15,4/3/20 16:00
+Guyana,Guyana,23,4,0,19,4/3/20 22:00
+Saint Martin,Saint Martin,22,1,2,19,4/2/20 2:00
+Republic of the Congo,Republic of the Congo,22,2,0,20,4/2/20 2:00
+Eritrea,Eritrea,22,0,0,22,4/2/20 19:00
+Gabon,Gabon,21,1,0,20,4/3/20 1:00
+Tanzania,Tanzania,20,1,1,18,4/1/20 14:00
+Maldives,Maldives,19,0,13,6,4/1/20 14:00
+Qinghai,Mainland China,18,0,18,0,3/7/20 1:00
+New Caledonia,New Caledonia,18,0,1,17,4/2/20 12:00
+Haiti,Haiti,18,0,1,17,4/3/20 10:00
+Benin,Benin,16,0,2,14,4/3/20 20:00
+Equatorial Guinea,Equatorial Guinea,16,0,1,15,4/3/20 17:00
+Syria,Syria,16,2,0,14,4/2/20 17:00
+Guinea-Bissau,Guinea-Bissau,15,0,0,15,4/3/20 22:00
+Antigua and Barbuda,Antigua and Barbuda,15,0,0,15,4/4/20 0:00
+Dominica,Dominica,14,0,0,14,4/4/20 0:00
+Mongolia,Mongolia,14,0,2,12,4/1/20 11:00
+Namibia,Namibia,14,0,2,12,4/1/20 14:00
+Saint Lucia,Saint Lucia,13,0,1,12,4/1/20 1:00
+Grenada,Grenada,12,0,0,12,4/3/20 22:00
+Curacao,Curacao,11,1,2,8,3/30/20 16:00
+Laos,Laos,10,0,0,10,4/1/20 11:00
+Libya,Libya,10,0,1,9,4/1/20 1:00
+Mozambique,Mozambique,10,0,0,10,4/1/20 19:00
+Seychelles,Seychelles,10,0,0,10,3/31/20 11:00
+Suriname,Suriname,10,0,0,10,4/1/20 11:00
+Sudan,Sudan,10,2,2,6,4/3/20 16:00
+Greenland,Greenland,10,0,2,8,3/30/20 13:00
+Saint Kitts and Nevis,Saint Kitts and Nevis,9,0,0,9,4/3/20 1:00
+Zimbabwe,Zimbabwe,9,1,0,8,4/3/20 1:00
+Angola,Angola,8,2,1,5,4/2/20 2:00
+Central African Republic,Central African Republic,8,0,0,8,4/3/20 10:00
+Chad,Chad,8,0,0,8,4/3/20 1:00
+Northern Mariana Islands,USA,8,1,0,7,2020-04-04 03:00:00 * CTY: Saipan 6; unknown 2
+Fiji,Fiji,7,0,0,7,4/2/20 12:00
+Liberia,Liberia,7,0,0,7,4/3/20 16:00
+Somalia,Somalia,7,0,1,6,4/3/20 20:00
+Nepal,Nepal,7,0,1,6,4/3/20 10:00
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,7,0,1,6,4/3/20 22:00
+Vatican City,Vatican City,7,0,0,7,4/3/20 1:00
+Saint Barthelemy,Saint Barthelemy,6,0,1,5,3/30/20 16:00
+Montserrat,Montserrat,6,0,0,6,4/4/20 0:00
+Turks and Caicos Islands,Turks and Caicos Islands,6,0,0,6,4/1/20 15:00
+Cabo Verde,Cabo Verde,6,1,0,5,3/29/20 1:00
+Mauritania,Mauritania,6,1,2,3,3/31/20 1:00
+Nicaragua,Nicaragua,5,1,0,4,4/1/20 1:00
+Bhutan,Bhutan,5,0,1,4,4/2/20 12:00
+Botswana,Botswana,4,1,0,3,4/1/20 1:00
+Belize,Belize,4,0,0,4,4/3/20 16:00
+Gambia,Gambia,4,1,0,3,3/29/20 21:00
+Wuhan Evacuee,USA,4,0,0,4,2020-04-04 03:00:00 * CTY: unknown 4
+Malawi,Malawi,3,0,0,3,4/2/20 19:00
+Burundi,Burundi,3,0,0,3,4/2/20 17:00
+Anguilla,Anguilla,3,0,0,3,4/2/20 17:00
+Sierra Leone,Sierra Leone,2,0,0,2,4/2/20 2:00
+Jersey,Jersey,2,0,0,2,3/14/20 18:00
+Xizang,Mainland China,1,0,1,0,2/12/20 7:00
+Papua New Guinea,Papua New Guinea,1,0,0,1,3/26/20 17:00
+Timor-Leste,Timor-Leste,1,0,0,1,3/26/20 17:00
+Guernsey,Guernsey,1,0,0,1,3/13/20 14:00
+USA (Aggregate Recovered),USA,0,0,"9,897","-9,897",4/4/20 3:00
