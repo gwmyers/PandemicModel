@@ -239,7 +239,7 @@ def runAnalysis():
     logisticFunc.SetLineColor(ROOT.kMagenta)
     
     # do the fit:
-    hist.Fit(logisticFunc, '', '',6, nBins)
+    hist.Fit(logisticFunc, '', '',5, nBins)
     
     # draw the histogram and fit function together:
     c1 = ROOT.TCanvas('c1', 'c1', 800, 600)
