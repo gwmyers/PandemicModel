@@ -43,6 +43,10 @@ COUNTRY_KEYS = [
 'Iran',
 'Spain',
 'South Korea',
+'Taiwan',
+'Germany',
+'United Kingdom',
+'India',
 ]
 
 DOPE_COLOR_PALLETTE = [
@@ -80,11 +84,11 @@ def makeHistogramFromDataFrameColumn(dataframe, column, tag=''):
     x-values: days since Feb 25th
     y-values: column entry for given day (row)
     
-    NB: adds 5% error bars to data points to try to estimate uncertainty
+    NB: adds 10% error bars to data points to try to estimate uncertainty
     '''
     xData = dataframe[column].tolist()
     nPoints = len(xData)
-    h = ROOT.TH1F('h_'+column+'_'+tag, 'h_'+column+'_'+tag, nPoints, 0, nPoints)
+    h = ROOT.TH1F('h_'+column+'_'+tag, 'h_'+column+'_'+tag, nPoints+1, 0, nPoints+1)
     h.SetTitle(tag)
     h.GetYaxis().SetTitle(column)
     h.GetXaxis().SetTitle('days since Feb 25th')
@@ -95,8 +99,9 @@ def makeHistogramFromDataFrameColumn(dataframe, column, tag=''):
     for ii in range(nPoints):
         datum = dataScaleFactor*xData[ii]
         error = errorScaleFactor*datum + math.sqrt(datum)
-        h.SetBinContent(ii, datum)
-        h.SetBinError(ii, error)
+        # zeroth bin is underflow bin, so add 1:
+        h.SetBinContent(ii+1, datum)
+        h.SetBinError(ii+1, error)
     
     return h
 
@@ -191,10 +196,13 @@ def makeAllHistograms():
                          'Last Update':[]})
                          
     nPoints = len([fname for fname in os.listdir(DATA_DIR) if '.csv' in fname ])
-    
+        
     f = ROOT.TFile(os.path.join(PLOT_DIR,'case-reports.root'), 'recreate')
     
+    print("number of data points found: {0}".format(nPoints))
+    
     for country in COUNTRY_KEYS:
+        print("making plot for country: {0}".format(country))
         dfList = []
         for ii in range(nPoints):
             fname = 'COVID-19 Surveillance Dashboard ({0}).csv'.format(ii)
@@ -204,7 +212,7 @@ def makeAllHistograms():
             
             data = pd.concat(dfList, sort=True)
         
-        print(data)
+        #print(data)
         
         for plotKey in DATA_KEYS_TO_PLOT:
             hist = makeHistogramFromDataFrameColumn(data, plotKey, country)
@@ -234,12 +242,12 @@ def runAnalysis():
     formatHistogramForDrawing(hist, markerColor, markerStyle, lineStyle, xlabel, ylabel)
    
     # define fit function:
-    logisticFunc = ROOT.TF1('logisticFunc','[0]/( 1 + [1]*exp(-[2]*(x-[3])) )', 0, nBins)
+    logisticFunc = ROOT.TF1('logisticFunc','[0]/( 1 + [1]*exp(-[2]*(x-[3])) )', 0, nBins+1)
     logisticFunc.SetParameters(1,1,1,0)
     logisticFunc.SetLineColor(ROOT.kMagenta)
     
     # do the fit:
-    hist.Fit(logisticFunc, '', '',5, nBins)
+    hist.Fit(logisticFunc, '', '',6, nBins)
     
     # draw the histogram and fit function together:
     c1 = ROOT.TCanvas('c1', 'c1', 800, 600)
