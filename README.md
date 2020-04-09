@@ -17,3 +17,6 @@ Optional command line arguments:
 * `predictions` - random fit models
 * `python` - analyzer source code 
 
+## External Package Dependencies:
+* ROOT (https://root.cern.ch/)
+* scipy stuff like numpy and pandas (https://www.scipy.org/)
