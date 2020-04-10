@@ -1,8 +1,9 @@
 # PandemicModel
 
 ## Running the Analyzer:
+Update my hard-coded paths in the `python/PandemicModel.py` and then run from the `python` directory:
 
-`python python/PandemicModel.py`
+`python PandemicModel.py`
 
 Optional command line arguments:
 *  no arguments: run everything
@@ -16,3 +17,6 @@ Optional command line arguments:
 * `predictions` - random fit models
 * `python` - analyzer source code 
 
+## External Package Dependencies:
+* ROOT (https://root.cern.ch/)
+* scipy stuff like numpy and pandas (https://www.scipy.org/)
