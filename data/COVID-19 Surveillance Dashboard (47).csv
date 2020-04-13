@@ -1,0 +1,300 @@
+Place,Region,Confirmed,Deaths,Recovered,Active,Last Update
+USA,USA,"562,195","22,158","41,831","498,206",4/13/20 3:00
+New York,USA,"190,288","9,385","25,765","155,138",4/13/20 3:00
+Spain,Spain,"166,831","17,209","62,391","87,231",4/13/20 2:00
+Italy,Italy,"156,363","19,899","34,211","102,253",4/12/20 17:00
+France,France,"132,591","14,393","27,186","91,012",4/13/20 2:00
+Germany,Germany,"127,879","3,039","60,300","64,540",2020-04-13 02:00:00 * States Baden-Württemberg 26032; Bavaria 33647; Berlin 4583; Brandenburg 2055; Bremen 479; Hamburg 3817; Hesse 6099; Mecklenburg-Vorpommern 610; Lower Saxony 8195; North Rhine-Westphalia 26587; Rhineland-Palatinate 4970; Saarland 2121; Saxony 3853; Saxony-Anhalt 1207; Schleswig-Holstein 2138; Thuringia 1486; Source: @engmann
+United Kingdom,United Kingdom,"84,279","10,612",344,"73,323",4/12/20 17:00
+Mainland China,Mainland China,"82,086","3,327","77,078","1,681",4/13/20 1:00
+Iran,Iran,"71,686","4,474","43,894","23,318",4/12/20 13:00
+Hubei,Mainland China,"67,803","3,207","63,762",834,4/4/20 2:00
+New Jersey,USA,"61,850","2,350",355,"59,145",4/13/20 3:00
+Turkey,Turkey,"56,956","1,198","3,446","52,312",4/13/20 2:00
+Belgium,Belgium,"29,647","3,600","6,463","19,584",4/12/20 13:00
+Netherlands,Netherlands,"25,587","2,737",250,"22,600",4/12/20 13:00
+Massachusetts,USA,"25,475",756,729,"23,990",4/13/20 3:00
+Switzerland,Switzerland,"25,415","1,106","12,700","11,609",4/13/20 2:00
+Michigan,USA,"24,638","1,487",433,"22,718",4/13/20 3:00
+Canada,Canada,"24,383",717,"7,172","16,494",2020-04-13 02:00:00 * Completed Tests: 427186; Tests in Progress 4309; Provinces: British Columbia 1445;Alberta 1651;Saskatchewan 298;Manitoba 242;Ontario 7049;Quebec 12846;Newfoundland and Labrador 242;New Brunswick 114;Nova Scotia 445;Prince Edward Island 25;Yukon 8;Northwest Territories 5;Nunavut 0;Repatriated travellers 13
+California,USA,"23,311",682,978,"21,651",4/13/20 3:00
+Pennsylvania,USA,"22,997",557,179,"22,261",4/13/20 3:00
+Brazil,Brazil,"22,169","1,223",127,"20,819",2020-04-13 02:00:00 * States Acre 77 Amazonas 1206 Amapá 230 Pará 246 Rondônia 35 Roraima 79 Tocantins 25 Alagoas 48 Bahia 673 Ceara 1676 Maranhão 398 Paraíba 101 Pernambuco 960 Piauí 44 Rio Grande do Norte 302 Sergipe 44 Espírito Santo 383 Minas Gerais 806 Rio de Janeiro 2855 São Paulo 8755 Distrito Federal 614 Goiás 229 Mato Grosso do Sul 101 Mato Grosso 123 Paraná 738 Rio Grande do Sul 653 Santa Catarina 768. Source: @HeidyBello
+Illinois,USA,"20,852",720,227,"19,905",4/13/20 3:00
+Louisiana,USA,"20,595",840,0,"19,755",4/13/20 3:00
+Florida,USA,"19,895",461,0,"19,434",4/13/20 3:00
+Portugal,Portugal,"16,585",504,277,"15,804",4/12/20 13:00
+Russia,Russia,"15,770",130,"1,291","14,349",4/12/20 13:00
+Austria,Austria,"13,945",350,"6,987","6,608",4/12/20 13:00
+Texas,USA,"13,886",296,"2,068","11,522",4/13/20 3:00
+Georgia,USA,"12,550",442,340,"11,768",4/13/20 3:00
+Connecticut,USA,"12,035",554,34,"11,447",4/13/20 3:00
+Israel,Israel,"11,145",103,"1,627","9,415",4/13/20 2:00
+South Korea,South Korea,"10,537",217,"7,447","2,873",4/13/20 2:00
+Washington,USA,"10,530",510,"1,325","8,695",4/13/20 3:00
+Sweden,Sweden,"10,483",899,381,"9,203",4/12/20 13:00
+Ireland,Ireland,"9,655",334,25,"9,296",4/13/20 2:00
+India,India,"9,211",331,"1,086","7,794",2020-04-13 02:00:00 * States: Maharashtra 1982;Delhi 1154;Tamil Nadu 1075;Rajasthan 804;Madhya Pradesh 562;Telangana 531;Gujarat 516;Uttar Pradesh 483;Andhra Pradesh 420;Kerala 375;Jammu and Kashmir 245;Karnataka 232;Haryana 195;Punjab 170;West Bengal 134;Bihar 64;Odisha 54;Uttarakhand 35;Himachal Pradesh 32;Assam 29;Chhattisgarh 31;Chandigarh 21;Jharkhand 19;Ladakh 15;Andaman and Nicobar Islands 11;Goa 7;Puducherry 7;Manipur 2;Tripura 2;Mizoram 1;Arunachal Pradesh 1;Dadra and Nagar Haveli 1;Nagaland 1;Daman and Diu 0;Lakshadweep 0;Meghalaya 0;Sikkim 0
+Maryland,USA,"8,225",235,456,"7,534",4/13/20 3:00
+Indiana,USA,"7,928",343,105,"7,480",4/13/20 3:00
+Ecuador,Ecuador,"7,466",333,501,"6,632",4/13/20 2:00
+Japan,Japan,"7,370",123,784,"6,463",4/13/20 2:00
+Colorado,USA,"7,307",290,112,"6,905",4/13/20 3:00
+Chile,Chile,"7,213",80,"2,059","5,074",2020-04-12 17:00:00 * Arica 115; Tarapaca 46; Antofagasta 138; Atacama 13; Coquimbo 66; Valparaiso 254; Metropolitana 3599; O'Higgins 46; Maule 138; Ñuble 613; Biobio 500; Araucania 775; Los Rios 135; Los Lagos 372; Aysen 7; Magallanes 396. Source: @SouthernVOID
+Peru,Peru,"6,848",181,"1,739","4,928",2020-04-11 19:00:00 * Lima 4933; Callao 541; Lambayeque 326; Loreto 315; La Libertad 108; Piura 91; Ancash 88; Arequipa 85; Tumbes 68; Junin 58; Cusco 58; Ica 47; Amazonas 22; San Martin 20; Ucayali 14; Ayacucho 13; Cajamarca 11; Tacna 9; Huanuco 9; Pasco 9; Moquegua 8; Huancavelica 7; Madre de Dios 4; Apurímac 3; Puno 1. @SouthernVOID
+Poland,Poland,"6,674",232,439,"6,003",4/12/20 17:00
+Ohio,USA,"6,604",253,12,"6,339",4/13/20 3:00
+Norway,Norway,"6,525",128,32,"6,365",4/13/20 2:00
+Pakistan,Pakistan,"6,495",66,727,"5,702",4/10/20 16:00
+Australia,Australia,"6,315",60,"1,806","4,449",4/12/20 13:00
+Romania,Romania,"6,300",306,852,"5,142",4/12/20 13:00
+Denmark,Denmark,"6,174",273,"2,123","3,778",4/12/20 13:00
+Czech Republic,Czech Republic,"5,991",138,464,"5,389",4/13/20 2:00
+Tennessee,USA,"5,508",106,"1,504","3,898",4/13/20 3:00
+Virginia,USA,"5,274",141,2,"5,131",4/13/20 3:00
+Malaysia,Malaysia,"4,683",76,"2,108","2,499",4/12/20 13:00
+Philippines,Philippines,"4,648",297,197,"4,154",4/12/20 13:00
+North Carolina,USA,"4,602",91,325,"4,186",4/13/20 3:00
+Saudi Arabia,Saudi Arabia,"4,462",59,761,"3,642",4/12/20 13:00
+Missouri,USA,"4,272",118,191,"3,963",4/13/20 3:00
+Indonesia,Indonesia,"4,241",373,359,"3,509",4/12/20 13:00
+Mexico,Mexico,"4,219",273,"1,772","2,174",4/12/20 13:00
+United Arab Emirates,United Arab Emirates,"4,123",22,680,"3,421",4/13/20 2:00
+Serbia,Serbia,"3,630",80,0,"3,550",4/13/20 2:00
+Alabama,USA,"3,583",93,0,"3,490",4/13/20 3:00
+Arizona,USA,"3,542",115,3,"3,424",4/13/20 3:00
+US Military,USA,"3,509",13,351,"3,145",4/13/20 3:00
+Panama,Panama,"3,400",87,29,"3,284",4/13/20 2:00
+Wisconsin,USA,"3,341",144,84,"3,113",4/13/20 3:00
+South Carolina,USA,"3,320",82,0,"3,238",4/13/20 3:00
+Luxembourg,Luxembourg,"3,281",66,500,"2,715",4/12/20 17:00
+Qatar,Qatar,"2,979",7,275,"2,697",4/12/20 13:00
+Finland,Finland,"2,974",56,300,"2,618",4/12/20 13:00
+Dominican Republic,Dominican Republic,"2,967",173,131,"2,663",4/12/20 17:00
+Nevada,USA,"2,836",114,994,"1,728",4/13/20 3:00
+Mississippi,USA,"2,781",96,0,"2,685",4/13/20 3:00
+Ukraine,Ukraine,"2,777",83,89,"2,605",4/12/20 13:00
+Colombia,Colombia,"2,776",109,274,"2,393",2020-04-13 02:00:00 * Bogotá D.C. 1186 Cundinamarca 112 Antioquia 260 Valle del Cauca 489 Bolívar 123 Atlántico 84 Magdalena 88 Cesar 32 Sucre 1 La Guajira 1 Córdoba 13 Norte de Santander 43 Santander 29 Cauca 19 Caldas 34 Risaralda 60 Quindío 47 Huila 52 Tolima 23 Meta 21 Casanare 7 San Andrés y Providencia 5 Nariño 38 Boyacá 31. Source: @HeidyBello
+Rhode Island,USA,"2,665",63,0,"2,602",4/13/20 3:00
+Belarus,Belarus,"2,578",26,203,"2,349",4/12/20 13:00
+Thailand,Thailand,"2,551",38,"1,218","1,295",4/12/20 13:00
+Singapore,Singapore,"2,532",8,560,"1,964",4/12/20 17:00
+Utah,USA,"2,303",18,26,"2,259",4/13/20 3:00
+Argentina,Argentina,"2,208",95,468,"1,645",2020-04-13 03:00:00 * CABA 586; Buenos Aires 572; Cordoba 206; Santa Fe 203; Chaco 150; Tierra del Fuego 95; Neuquen 86; Rio Negro 78; Mendoza 57; Santa Cruz 40; Tucuman 30; Corrientes 24; Entre Rios 21; La Rioja 19; Santiago del Estero 12; San Luis 11; Jujuy 5; La Pampa 5; Misiones 3; Salta 3; San Juan 2. Source: @SouthernVOID
+South Africa,South Africa,"2,173",25,410,"1,738",4/13/20 2:00
+Greece,Greece,"2,114",98,269,"1,747",2020-04-12 22:00:00 * Attica 701; Aegean Islands 9; Thrace 24; Macedonia 122; Epirus 7; Thessaly 14; Peloponesse 78; Dodecanese 2; Central Greece 6; Crete 12; Ionian Islands 7; Cyclades 1; Undefined Location 958; Cruize Ship 119. Source: @bikerboyGR
+Egypt,Egypt,"2,065",159,589,"1,317",4/13/20 2:00
+Kentucky,USA,"2,018",113,306,"1,599",4/13/20 3:00
+Oklahoma,USA,"1,970",96,409,"1,465",4/13/20 3:00
+Algeria,Algeria,"1,914",293,591,"1,030",4/12/20 17:00
+District of Columbia,USA,"1,875",50,493,"1,332",4/13/20 3:00
+Iceland,Iceland,"1,701",8,889,804,4/12/20 17:00
+Moldova,Moldova,"1,662",31,94,"1,537",4/12/20 17:00
+Morocco,Morocco,"1,661",118,177,"1,366",4/13/20 2:00
+Delaware,USA,"1,625",35,213,"1,377",4/13/20 3:00
+Minnesota,USA,"1,621",70,842,709,4/13/20 3:00
+Croatia,Croatia,"1,600",23,373,"1,204",4/12/20 13:00
+Iowa,USA,"1,587",41,674,872,4/13/20 3:00
+Guangdong,Mainland China,"1,552",8,"1,443",101,4/12/20 3:00
+Oregon,USA,"1,527",52,0,"1,475",4/13/20 3:00
+Idaho,USA,"1,426",27,0,"1,399",4/13/20 3:00
+Hungary,Hungary,"1,410",99,118,"1,193",4/12/20 13:00
+Iraq,Iraq,"1,352",76,640,636,4/12/20 17:00
+Kansas,USA,"1,337",56,53,"1,228",4/13/20 3:00
+New Zealand,New Zealand,"1,330",4,471,855,4/12/20 13:00
+Estonia,Estonia,"1,309",25,98,"1,186",4/12/20 13:00
+Arkansas,USA,"1,280",27,346,907,4/13/20 3:00
+Henan,Mainland China,"1,276",22,"1,251",3,3/29/20 2:00
+Zhejiang,Mainland China,"1,267",1,"1,235",31,4/9/20 2:00
+New Mexico,USA,"1,245",26,235,984,4/13/20 3:00
+Kuwait,Kuwait,"1,234",1,142,"1,091",4/12/20 13:00
+Slovenia,Slovenia,"1,205",53,150,"1,002",4/12/20 13:00
+Bahrain,Bahrain,"1,136",6,558,572,4/13/20 2:00
+Azerbaijan,Azerbaijan,"1,098",11,250,837,4/12/20 17:00
+Lithuania,Lithuania,"1,053",23,97,933,4/12/20 13:00
+Hunan,Mainland China,"1,019",4,"1,014",1,4/2/20 2:00
+Armenia,Armenia,"1,013",13,197,803,4/12/20 13:00
+Bosnia and Herzegovina,Bosnia and Herzegovina,"1,009",39,193,777,4/13/20 2:00
+Hong Kong,Hong Kong,"1,004",4,360,640,4/12/20 11:00
+Anhui,Mainland China,991,6,984,1,4/9/20 2:00
+New Hampshire,USA,985,23,239,723,4/13/20 3:00
+Kazakhstan,Kazakhstan,951,10,99,842,4/13/20 2:00
+Jiangxi,Mainland China,937,1,934,2,3/29/20 2:00
+Puerto Rico,USA,897,44,0,853,4/13/20 3:00
+Uzbekistan,Uzbekistan,865,4,66,795,4/13/20 2:00
+North Macedonia,North Macedonia,828,34,41,753,4/12/20 13:00
+Cameroon,Cameroon,820,12,98,710,4/10/20 21:00
+Nebraska,USA,814,17,0,797,4/13/20 3:00
+Shandong,Mainland China,784,7,757,20,4/11/20 1:00
+Slovakia,Slovakia,742,2,23,717,4/12/20 13:00
+South Dakota,USA,730,6,196,528,4/13/20 3:00
+Vermont,USA,727,27,0,700,4/13/20 3:00
+Tunisia,Tunisia,707,31,43,633,4/13/20 2:00
+Others,Japan (Diamond Princess),706,6,10,690,3/3/20 3:00
+Navajo Nation,USA,698,24,0,674,4/13/20 3:00
+Heilongjiang,Mainland China,684,13,470,201,4/12/20 3:00
+Bulgaria,Bulgaria,675,29,68,578,4/12/20 17:00
+Cuba,Cuba,669,18,92,559,4/12/20 17:00
+Jiangsu,Mainland China,653,0,638,15,4/12/20 3:00
+Andorra,Andorra,638,29,128,481,4/12/20 17:00
+Cyprus,Cyprus,633,11,65,557,4/12/20 17:00
+Maine,USA,633,19,266,348,4/13/20 3:00
+Lebanon,Lebanon,630,20,77,533,4/12/20 13:00
+Bangladesh,Bangladesh,621,34,39,548,4/12/20 13:00
+West Virginia,USA,611,8,57,546,4/13/20 3:00
+Shanghai,Mainland China,607,7,446,154,4/12/20 6:00
+Afghanistan,Afghanistan,607,18,32,557,4/12/20 13:00
+Oman,Oman,599,3,109,487,4/12/20 13:00
+Costa Rica,Costa Rica,595,3,56,536,4/13/20 2:00
+Beijing,Mainland China,589,8,474,107,4/11/20 1:00
+Chongqing,Mainland China,579,6,570,3,3/29/20 1:00
+Cote d'Ivoire,Cote d'Ivoire,574,5,85,484,4/13/20 2:00
+Sichuan,Mainland China,560,3,541,16,4/7/20 2:00
+Niger,Niger,529,12,75,442,4/13/20 2:00
+Uruguay,Uruguay,501,7,224,270,4/12/20 13:00
+Hawaii,USA,499,9,310,180,4/13/20 3:00
+Burkina Faso,Burkina Faso,497,27,161,309,4/13/20 2:00
+Latvia,Latvia,493,0,31,462,4/3/20 10:00
+Albania,Albania,446,23,217,206,4/12/20 13:00
+Honduras,Honduras,393,25,7,361,4/12/20 13:00
+Jordan,Jordan,389,7,201,181,4/13/20 2:00
+Reunion,Reunion,389,0,40,349,4/13/20 2:00
+Taiwan,Taiwan,388,6,109,273,4/12/20 8:00
+Montana,USA,387,6,169,212,4/13/20 3:00
+Malta,Malta,378,3,44,331,4/12/20 13:00
+Kyrgyzstan,Kyrgyzstan,377,5,44,328,4/12/20 13:00
+San Marino,San Marino,356,35,53,268,4/11/20 17:00
+Fujian,Mainland China,352,1,321,30,4/12/20 3:00
+Hebei,Mainland China,327,6,310,11,4/5/20 2:00
+Mauritius,Mauritius,324,9,42,273,4/12/20 17:00
+Nigeria,Nigeria,323,10,85,228,4/13/20 2:00
+Ghana,Ghana,313,6,34,273,4/8/20 17:00
+North Dakota,USA,308,8,121,179,4/13/20 3:00
+Bolivia,Bolivia,300,24,2,274,4/12/20 13:00
+Palestine,Palestine,290,2,58,230,4/13/20 2:00
+Kosovo,Kosovo,283,7,58,218,4/12/20 2:00
+Senegal,Senegal,280,2,171,107,4/12/20 13:00
+Montenegro,Montenegro,272,3,5,264,4/13/20 2:00
+Alaska,USA,272,8,66,198,4/13/20 3:00
+Wyoming,USA,270,0,137,133,4/13/20 3:00
+Vietnam,Vietnam,262,0,144,118,4/13/20 2:00
+Georgia (country),Georgia,257,3,67,187,4/13/20 2:00
+Shaanxi,Mainland China,256,3,245,8,4/4/20 2:00
+Guangxi,Mainland China,254,2,295,-43,3/22/20 18:00
+Guinea,Guinea,250,0,17,233,4/11/20 21:00
+Democratic Republic of the Congo,Democratic Republic of the Congo,234,20,16,198,4/12/20 13:00
+Isle of Man,Isle of Man,228,2,112,114,4/12/20 17:00
+Djibouti,Djibouti,214,2,36,176,4/12/20 17:00
+Sri Lanka,Sri Lanka,210,7,56,147,4/13/20 2:00
+Kenya,Kenya,197,8,25,164,4/12/20 13:00
+Mayotte,Mayotte,196,3,59,134,4/11/20 17:00
+Nei Mongol,Mainland China,189,1,83,105,4/12/20 10:00
+Yunnan,Mainland China,184,2,172,10,4/3/20 0:00
+Faroe Islands,Faroe Islands,184,0,129,55,4/7/20 11:00
+Tianjin,Mainland China,183,3,158,22,4/10/20 15:00
+Venezuela,Venezuela,181,9,93,79,4/13/20 2:00
+Shanxi,Mainland China,173,0,135,38,4/13/20 1:00
+Hainan,Mainland China,168,6,168,-6,3/24/20 5:00
+Martinique,Martinique,155,6,50,99,4/11/20 2:00
+Guatemala,Guatemala,155,5,19,131,4/13/20 2:00
+Guizhou,Mainland China,146,2,144,0,3/17/20 2:00
+Liaoning,Mainland China,145,2,133,10,4/11/20 1:00
+Guadeloupe,Guadeloupe,143,8,67,68,4/10/20 2:00
+Gansu,Mainland China,139,2,132,5,4/6/20 3:00
+Brunei,Brunei,136,1,99,36,4/10/20 14:00
+Paraguay,Paraguay,134,6,22,106,4/12/20 13:00
+Guam,USA,133,5,58,70,4/13/20 3:00
+Gibraltar,Gibraltar,129,0,84,45,4/11/20 17:00
+Rwanda,Rwanda,126,0,25,101,4/13/20 2:00
+El Salvador,El Salvador,125,6,21,98,4/12/20 13:00
+Cambodia,Cambodia,122,0,77,45,4/12/20 13:00
+Trinidad and Tobago,Trinidad and Tobago,113,8,12,93,4/12/20 17:00
+Madagascar,Madagascar,106,0,20,86,4/12/20 13:00
+Mali,Mali,105,9,22,74,4/12/20 13:00
+Grand Princess,USA,103,3,0,100,4/13/20 3:00
+Jilin,Mainland China,99,1,96,2,4/12/20 3:00
+Monaco,Monaco,93,1,6,86,4/13/20 2:00
+Aruba,Aruba,92,0,29,63,4/11/20 21:00
+French Guiana,French Guiana,86,0,51,35,4/12/20 2:00
+Liechtenstein,Liechtenstein,79,1,55,23,4/10/20 21:00
+Xinjiang Uygur,Mainland China,76,3,73,0,3/9/20 1:00
+Togo,Togo,76,3,25,48,4/10/20 14:00
+Ningxia,Mainland China,75,0,75,0,3/17/20 2:00
+Jamaica,Jamaica,72,4,16,52,4/13/20 2:00
+Barbados,Barbados,71,4,11,56,4/13/20 2:00
+Ethiopia,Ethiopia,71,3,10,58,4/12/20 13:00
+Republic of the Congo,Republic of the Congo,60,5,5,50,4/9/20 14:00
+Bermuda,Bermuda,57,4,29,24,4/13/20 2:00
+Uganda,Uganda,54,0,4,50,4/13/20 2:00
+French Polynesia,French Polynesia,53,0,0,53,4/13/20 2:00
+Cayman Islands,Cayman Islands,53,1,6,46,4/12/20 2:00
+USA Virgin Islands,USA,51,1,43,7,4/13/20 3:00
+Liberia,Liberia,50,5,3,42,4/12/20 13:00
+Gabon,Gabon,49,1,1,47,4/12/20 13:00
+Diamond Princess,USA,49,0,0,49,4/13/20 3:00
+Bahamas,Bahamas,46,8,5,33,4/12/20 2:00
+Macau,Macau,45,0,10,35,4/8/20 10:00
+Guyana,Guyana,45,6,8,31,4/12/20 2:00
+Zambia,Zambia,43,2,30,11,4/12/20 17:00
+Guinea-Bissau,Guinea-Bissau,38,0,0,38,4/11/20 14:00
+Benin,Benin,35,1,5,29,4/10/20 16:00
+Eritrea,Eritrea,34,0,0,34,4/10/20 21:00
+Saint Martin,Saint Martin,32,2,7,23,4/6/20 0:00
+Tanzania,Tanzania,32,3,5,24,4/10/20 14:00
+Sint Maarten,Sint Maarten,25,4,6,15,4/5/20 11:00
+Libya,Libya,25,1,8,16,4/12/20 2:00
+Somalia,Somalia,25,1,2,22,4/13/20 2:00
+Syria,Syria,25,2,4,19,4/11/20 17:00
+Equatorial Guinea,Equatorial Guinea,21,0,3,18,4/12/20 13:00
+Haiti,Haiti,21,0,1,20,4/5/20 11:00
+Mozambique,Mozambique,21,0,2,19,4/12/20 13:00
+Antigua and Barbuda,Antigua and Barbuda,21,2,0,19,4/11/20 2:00
+Maldives,Maldives,20,0,13,7,4/12/20 13:00
+Angola,Angola,19,2,2,15,4/8/20 21:00
+Laos,Laos,19,0,0,19,4/12/20 13:00
+Sudan,Sudan,19,2,2,15,4/11/20 17:00
+Qinghai,Mainland China,18,0,18,0,3/7/20 1:00
+New Caledonia,New Caledonia,18,0,1,17,4/2/20 12:00
+Chad,Chad,18,0,2,16,4/12/20 17:00
+Dominica,Dominica,16,0,5,11,4/10/20 14:00
+Fiji,Fiji,16,0,0,16,4/10/20 14:00
+Mongolia,Mongolia,16,0,4,12,4/8/20 10:00
+Namibia,Namibia,16,0,3,13,4/5/20 11:00
+Saint Lucia,Saint Lucia,15,0,1,14,4/10/20 21:00
+Belize,Belize,14,2,0,12,4/13/20 2:00
+Grenada,Grenada,14,0,0,14,4/10/20 21:00
+Zimbabwe,Zimbabwe,14,3,0,11,4/12/20 2:00
+Curacao,Curacao,14,1,7,6,4/8/20 21:00
+Malawi,Malawi,13,2,0,11,4/12/20 17:00
+Botswana,Botswana,13,1,0,12,4/9/20 14:00
+Saint Kitts and Nevis,Saint Kitts and Nevis,12,0,0,12,4/11/20 2:00
+Nepal,Nepal,12,0,1,11,4/12/20 13:00
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,12,0,1,11,4/9/20 21:00
+Montserrat,Montserrat,11,0,1,10,4/13/20 2:00
+Seychelles,Seychelles,11,0,0,11,4/6/20 16:00
+Greenland,Greenland,11,0,3,8,4/4/20 21:00
+Northern Mariana Islands,USA,11,2,0,9,4/13/20 3:00
+Sierra Leone,Sierra Leone,10,0,0,10,4/12/20 2:00
+Suriname,Suriname,10,0,0,10,4/1/20 11:00
+Turks and Caicos Islands,Turks and Caicos Islands,9,1,0,8,4/12/20 2:00
+Gambia,Gambia,9,1,2,6,4/11/20 21:00
+Nicaragua,Nicaragua,9,1,0,8,4/12/20 2:00
+Central African Republic,Central African Republic,8,0,0,8,4/3/20 10:00
+Cabo Verde,Cabo Verde,8,1,1,6,4/11/20 14:00
+Vatican City,Vatican City,8,0,2,6,4/8/20 21:00
+Mauritania,Mauritania,7,1,2,4,4/9/20 14:00
+Saint Barthelemy,Saint Barthelemy,6,0,1,5,3/30/20 16:00
+Burundi,Burundi,5,0,0,5,4/11/20 21:00
+Bhutan,Bhutan,5,0,1,4,4/2/20 12:00
+Sao Tome and Principe,Sao Tome and Principe,4,0,0,4,4/6/20 16:00
+South Sudan,South Sudan,4,0,0,4,4/10/20 15:00
+Wuhan Evacuee,USA,4,0,0,4,4/13/20 3:00
+Anguilla,Anguilla,3,0,0,3,4/2/20 17:00
+Falkland Islands (Islas Malvinas),Falkland Islands (Islas Malvinas),2,0,0,2,4/5/20 20:00
+Papua New Guinea,Papua New Guinea,2,0,0,2,4/6/20 13:00
+Timor-Leste,Timor-Leste,2,0,1,1,4/10/20 14:00
+Jersey,Jersey,2,0,0,2,3/14/20 18:00
+Xizang,Mainland China,1,0,1,0,2/12/20 7:00
+Yemen,Yemen,1,0,0,1,4/10/20 14:00
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,1,0,0,1,4/5/20 20:00
+Guernsey,Guernsey,1,0,0,1,3/13/20 14:00
